@@ -1,0 +1,84 @@
+---
+import Header from "../components/Header.astro";
+---
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="description" content="Blog " />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="icon" type="image/svg+xml" href="/blue_swirl.avif" />
+        <meta name="generator" content={Astro.generator} />
+        <title>DRS</title>
+    </head>
+    <body>
+        <Header />
+        <main id="main-content">
+            <div id="about">
+                <h1>About</h1>
+                <p>Hello, I'm Daniel</p>
+                <p>
+                    I'm a writer, researcher, and data specialist living in
+                    Ashland, OR. I write poetry and nonfiction, program
+                    simulations and digital synthesizers, and my research
+                    interests are in applied mathematics and the theoretical
+                    sciences.
+                </p>
+            </div>
+
+            <div id="projects">
+                <hr />
+                <h1>Projects</h1>
+                <ul>
+                    <li>Rust & Ruin</li>
+                    <li>DIY Graduate School</li>
+                    <li>Vocoder</li>
+                </ul>
+            </div>
+
+            <div id="books">
+                <hr />
+                <h1>Books</h1>
+                <li>
+                    <a
+                        href="https://www.moon-base-books.com/product-pages/tensegrity"
+                        >Tensegrity</a
+                    >
+                </li>
+            </div>
+
+            <div id="blog">
+                <hr />
+                <h1>Blog</h1>
+                <a href="/posts/DIYphd-1"
+                    >Building a Graduate Curriculum for Self-Study</a
+                >
+            </div>
+        </main>
+
+        <style>
+            #main-content {
+                width: clamp(400px, 80%, 1200px);
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+                grid-template-rows: auto;
+            }
+
+            #about {
+                grid-column: 1 / 5;
+            }
+
+            #projects {
+                grid-column: 1 / 5;
+            }
+
+            #books {
+                grid-column: 1 / 5;
+            }
+
+            #blog {
+                grid-column: 1 / 5;
+            }
+        </style>
+    </body>
+</html>

@@ -1,0 +1,74 @@
+body {
+    background-color: #FBF9FA;
+    color: #2B2024;
+}
+
+
+
+p {
+    line-height: 1.4;
+}
+
+
+
+h1 {
+    font-size: large;
+}
+
+
+a {
+    outline-color: transparent;
+}
+
+a:link {
+    color: #FD0054;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FD0054;
+    text-decoration: none;
+}
+
+a:focus {
+    color: #A80038;
+}
+
+a:hover {
+    color: #A80038;
+}
+
+a:active {
+    color: #A80038;
+    text-decoration: underline;
+}
+
+
+
+header a {
+    outline-color: transparent;
+    color: #2B2024;
+}
+
+header a:link {
+    color: #2B2024;
+    text-decoration: none;
+}
+
+header a:visited {
+    color: #2B2024;
+    text-decoration: none;
+}
+
+header a:focus {
+    color: #A80038;
+}
+
+header a:hover {
+    color: #A80038;
+}
+
+header a:active {
+    color: #A80038;
+    text-decoration: underline;
+}
