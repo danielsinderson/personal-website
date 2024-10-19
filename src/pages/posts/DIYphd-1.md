@@ -2,6 +2,7 @@
 layout: ../../layouts/BlogPostLayout.astro
 title: 'Building a Graduate Curriculum for Self-Study'
 pubDate: 2024-11-01
+date: "November 1, 2024"
 description: 'Documenting the first steps of building my self-study graduate curriculum for mathematical sciences.'
 author: 'Daniel Sinderson'
 image:
