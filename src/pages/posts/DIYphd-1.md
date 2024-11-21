@@ -27,18 +27,20 @@ Mathematics
 	- [ ] *Algebra* by Michael Artin
 	- [ ] [lectures](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
 - **Measure Theory**
-	- [ ] *Measures, Integrals and Martingales* by Rene Schilling
+	- [ ] *Measures, Integrals and Martingales* by René Schilling
+	- [ ] *Measure, Integral, Probability, and Processes* by René Schilling
 - **Topology**
-	- [ ] *Introduction to Topological Manifolds* by John M. Lee
+	- [ ] *Topology* by K. Jänich
+	- [ ] *Introduction to Topology* by Bert Mendelson
+	- [ ] *Topology: A Categorical Perspective* by Tai-Danae Bradley, Tyler Bryson, and John Terilla
 	- [ ] [lectures](https://www.youtube.com/playlist?list=PLd8NbPjkXPliJunBhtDNMuFsnZPeHpm-0)
 - **Functional Analysis**
-	- [ ] *Applied Nonlinear Functional Analysis: An Introduction* by Nikolaos S. Papageorgiou and Patrick Winkert
+	- [ ] *Functional Analysis* by George Bachman and Lawrence Narici
+	- [ ] *Applied Functional Analysis* by D.H. Griffel
 - **Algebraic Topology**
 	- [ ] *Algebraic Topology* by Allen Hatcher
 	- [ ] [lectures](https://www.youtube.com/playlist?list=PLOROtRhtegr7DmeMyFxfKxsljAVsAn_X4)
 	- [ ] *Elementary Applied Topology* by Robert Ghrist
-- **Differential Topology**
-	- [ ] *Introduction to Smooth Manifolds* by John M. Lee
 	
 
 
@@ -66,8 +68,11 @@ Everything Else
 	- [ ] *Philosophy of Biology* by Peter Godfrey-Smith
 - **Social Science** (texts TBD)
 	- [ ] *The Logic of Social Science* by James Mahoney
+	- [ ] *Ex Machina: Coevolving Machines and the Origins of the Social Universe* by John H. Miller
+	- [ ] *Governing the Commons* by Elinor Ostrom
 - **Systems Science** (texts TBD)
 	- [ ] *Elements and Relations* by Martin Zwick
+	- [ ] *Foundational Papers in Complexity Science vol. I, II* edited by David C. Krakauer
 
 
 
