@@ -1,0 +1,27 @@
+---
+import Header from "../components/Header.astro";
+
+const { frontmatter, url, headings } = Astro.props;
+---
+
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="icon" type="image/svg+xml" href="/blue_swirl.avif" />
+        <meta name="generator" content={Astro.generator} />
+        <title>{frontmatter.title}</title>
+    </head>
+    <body>
+        <Header />
+        <hgroup>
+            <h2>{frontmatter.title}</h2>
+        </hgroup>
+
+        <slot />
+
+        <p>Written on: {frontmatter.date}</p>
+
+        <style is:global></style>
+    </body>
+</html>
