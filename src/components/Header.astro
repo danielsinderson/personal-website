@@ -3,29 +3,43 @@ import "../styles/global.css";
 ---
 
 <header>
-    <a href="/">Working Theories</a>
-    &nbsp; &nbsp;
-    <div class="verticalLine">
-        &nbsp;
-        <a href="/#blog">Blog</a>
-        &nbsp;
-        <a href="/#books">Books</a>
-        &nbsp;
-        <a href="/#projects">Projects</a>
+    <div id="header-links">
+        <a href="/">Working Theories</a>
+        &nbsp; &nbsp;
+        <div class="verticalLine">
+            &nbsp;
+            <a href="/#blog">Blog</a>
+            &nbsp;
+            <a href="/#books">Books</a>
+            &nbsp;
+            <a href="/#projects">Projects</a>
+        </div>
     </div>
+    <hr />
 </header>
-<hr />
+
 
 <style>
     header {
-        position: sticky;
+        position: static;
+        top: 0;
+        background-color: #FBF9FA;
+        font-size: larger;
+        margin-bottom: 5px;
+    }
+
+    #header-links {
         display: flex;
         justify-content: flex-start;
-        font-size: large;
-        padding-bottom: 5px;
+        margin-bottom: 10px;
     }
 
     .verticalLine {
         border-left: thin solid black;
+    }
+
+    hr {
+        position: sticky;
+        top: 0;
     }
 </style>

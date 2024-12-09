@@ -1,5 +1,6 @@
 ---
 import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
 ---
 
 <html lang="en">
@@ -17,40 +18,72 @@ import Header from "../components/Header.astro";
             <div id="about">
                 <p>Hello, I'm Daniel.</p>
                 <p>
-                    I'm a writer, researcher, and data specialist living in
-                    Ashland, OR. I write poetry and nonfiction, program
-                    simulations and digital synthesizers, and my research
-                    interests are in applied mathematics and the theoretical
-                    sciences.
+                    I'm a writer and data specialist living in Ashland, OR with my wife and our two kids.
+                    I write poetry and nonfiction, am pursuing a self-study graduate curriculum in applied mathematics, and I have too many hobbies. 
+                </p>
+                <p>
+                    <strong>Degrees:</strong> A.A.S. Electronics | B.A. Anthropology | B.S. Mathematics
                 </p>
             </div>
 
-            <div id="projects">
-                <h1>Projects</h1>
-                <div><a>Rust & Ruin</a></div>
-                <div><a>DIY Graduate School</a></div>
-                <div><a>Vocoder</a></div>
-                <div><a>Plasmid</a></div>
-                <div><a></a></div>
+            
+
+            <div id="interests">
+                <h1>Interests</h1>
+                <p>
+                    Formal Theories<br>
+                    Poetry<br>
+                    Anthropology<br>
+                    Game Design<br>
+                    TTRPGs<br>
+                    Synthesizers<br>
+                </p>
+            </div>
+
+            <div id="skills">
+                <h1>Skills</h1>
+                <p>
+                    Mathematics<br>
+                    Data Analysis<br>
+                    Automation<br>
+                    Writing<br>
+                    Electronics<br>
+                    Eating Spicy Food<br>
+                </p>
             </div> 
 
-            <div id="research">
-                <h1>Interests</h1>
-                <div><a>Mathematics</a></div>
-                <div><a>Formal Theories</a></div>
-                <div><a>Philosophy</a></div>
-                <div><a>Anthropology</a></div>
-                <div><a>Poetry</a></div>
-                <div><a>TTRPGs</a></div>
+            <div id="books">
+                <hr />
+                <h1>Books and Papers</h1>
+                <div>
+                    <p><a href="https://www.moon-base-books.com/product-pages/tensegrity">Tensegrity</a> (poems)</p>
+                </div>
+                <div>
+                    <p><a href="/public/modeling-open-systems.pdf">Modeling Open Systems with Category Theory</a> (capstone paper)</p>
+                </div>     
+                <div>
+                    <p><a href="/posts/Vocoder-1">Vocoder</a> (poems: in revision)</p>
+                </div>              
             </div>
 
-            <div id="books">
-                <h1>Books</h1>
-                    <a
-                        href="https://www.moon-base-books.com/product-pages/tensegrity"
-                        >Tensegrity</a
-                    >
-            </div>
+            <div id="projects">
+                <hr />
+                <h1>Projects</h1>
+                <div>
+                    <p><a>Rust & Ruin</a> (tabletop roleplaying game: v0.5 is being play tested)</p>
+                </div>
+                <div>
+                    <p><a href="/posts/DIYphd-1">DIY Graduate School</a></p>
+                </div>
+<!--                <div> -->
+<!--                    <p><a>Plasmid</a> (digital synthesizer)</p> -->
+<!--                </div> -->
+                <div>
+                    <p><a></a></p>
+                </div>
+            </div> 
+
+            
 
             <div id="blog">
                 <hr />
@@ -59,7 +92,13 @@ import Header from "../components/Header.astro";
                     >Building a Graduate Curriculum for Self-Study</a
                 >
             </div>
+
+            <div id="foot">
+                <Footer />
+            </div>
         </main>
+
+
 
         <style>
             #main-content {
@@ -73,22 +112,34 @@ import Header from "../components/Header.astro";
                 grid-column: 1 / 7;
             }
 
-            #projects {
-                grid-column: 1 / 3;
+            #interests {
+                grid-column: 1 / 4;
             }
 
-            #research {
-                grid-column: 3 / 5;
+            #skills {
+                grid-column: 4 / 7;
             }
 
             #books {
-                grid-column: 5 / 7;
+                margin-top: 15px;
+                grid-column: 1 / 7;
+            }
+
+            #projects {
+                margin-top: 15px;
+                grid-column: 1 / 7;
             }
 
             #blog {
-                padding-top: 25px;
+                margin-top: 15px;
+                margin-bottom: 15px;
                 grid-column: 1 / 7;
             }
+
+            #foot {
+                grid-column: 1 / 7;
+            }
+            
         </style>
     </body>
 </html>

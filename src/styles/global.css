@@ -73,6 +73,35 @@ header a:active {
     text-decoration: underline;
 }
 
+footer a {
+    outline-color: transparent;
+    color: #2B2024;
+}
+
+footer a:link {
+    color: #2B2024;
+    text-decoration: underline;
+}
+
+footer a:visited {
+    color: #2B2024;
+    text-decoration: none;
+}
+
+footer a:focus {
+    color: #A80038;
+}
+
+footer a:hover {
+    color: #A80038;
+}
+
+footer a:active {
+    color: #A80038;
+    text-decoration: underline;
+}
+
+
 /* spacing */
 
 table {

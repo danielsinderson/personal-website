@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/BlogPostLayout.astro
+layout: ../../layouts/CourseBlogLayout.astro
 title: 'Building a Graduate Curriculum for Self-Study'
 pubDate: 2024-11-01
 date: "November 1, 2024"
