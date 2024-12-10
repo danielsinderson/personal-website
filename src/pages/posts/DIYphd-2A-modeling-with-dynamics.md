@@ -20,7 +20,7 @@ It's a year-long course in dynamical systems, differential equations, and optima
 
 ### Course Materials
 - The primary text will be *Foundations of Applied Mathematics vol. 4* by Jeffrey Humpherys, Tyler J. Jarvis, and Emily J. Evans. 
-- This also includes a freely available [lab supplement](/public/FAM_lab_supplement_Volume4.pdf).
+- This also includes a freely available [lab supplement](/FAM_lab_supplement_Volume4.pdf).
 
 ### Syllabus
 | # | Chapter                                                                       | HW  | Lab                                                        |

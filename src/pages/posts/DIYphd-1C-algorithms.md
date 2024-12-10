@@ -16,7 +16,7 @@ This will include algorithms and data structures, approximating functions with s
 
 ### Course Materials
 - The primary text will be ***Foundations of Applied Mathematics vol. 2*** by Jeffrey Humpherys, Tyler J. Jarvis, and Emily J. Evans. 
-- This also includes a freely available [lab supplement](/public/FAM_lab_supplement_Volume2.pdf).
+- This also includes a freely available [lab supplement](/FAM_lab_supplement_Volume2.pdf).
 - Lastly, I'll be supplementing the computer science portion of the course with ***Structure and Interpretation of Computer Programs*** by Harold Abelson, Gerald Jay Sussman, and Julie Sussman, which is freely available [here](https://web.mit.edu/6.001/6.037/sicp.pdf). 
 
 
