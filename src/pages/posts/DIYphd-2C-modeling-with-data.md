@@ -16,7 +16,7 @@ It's a year-long course in statistical modeling and machine learning for both ti
 
 ### Course Materials
 - The primary text will be ***Foundations of Applied Mathematics vol. 3*** by Jeffrey Humpherys, Tyler J. Jarvis, and Emily J. Evans. 
-- This also includes a freely available [lab supplement](/FAM_lab_supplement_Volume3.pdf).
+- This includes a freely available [lab supplement](/FAM_lab_supplement_Volume3.pdf).
 
 
 ### Syllabus

@@ -16,8 +16,8 @@ This will include abstract vector spaces and inner product spaces, metric spaces
 
 ### Course Materials
 - The primary text will be ***Foundations of Applied Mathematics vol. 1*** by Jeffrey Humpherys, Tyler J. Jarvis, and Emily J. Evans. 
-- This also includes a freely available [lab supplement](/FAM_lab_supplement_Volume1.pdf).
-- I'll also be supplementing with the following texts to dig deeper into the mathematics or simply review. They're all excellent and either free or very cheap.
+- This includes a freely available [lab supplement](/FAM_lab_supplement_Volume1.pdf).
+- I'll also be reading the following texts to dig deeper into the mathematics or simply review. They're all excellent and either free or very cheap.
     - ***Linear Algebra Done Right*** by Sheldon Axler
     - ***Understanding Analysis*** by Stephen Abbott
     - ***Measure, Integral, Probability & Processes*** by René Schilling

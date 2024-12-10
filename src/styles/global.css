@@ -106,7 +106,7 @@ footer a:active {
 
 table {
     table-layout: fixed;
-    width: clamp(415px, 80%, 1000px);
+    width: clamp(400px, 80%, 1000px);
     border-collapse: collapse;
     border: 2px solid black;
 }
