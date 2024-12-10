@@ -15,7 +15,7 @@ I've designed my own course of advanced study for two reasons. The first is that
 
 For the first two years I will be following the *Foundations of Applied Mathematics* series used by the Applied & Computational Mathematics program at BYU, with the addition of coursework in algebraic structures and applied category theory to expand the program's formal modeling vocabulary.
 
-The next years will be a lot more free-form, but generally focused on formal theories in science, philosophy, and systems design.
+The next years will be a lot more free-form, but generally focused on formal theories in science, philosophy, and systems design that I find interesting. 
 
 
 # Curriculum
