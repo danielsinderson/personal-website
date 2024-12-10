@@ -21,7 +21,7 @@ Both are subject to revisions.
 
 
 **ODE TO PLATO’S CAMERA**  
-The brain is a solvent.  
+The mind is a solvent.  
 It hurts.  
 Stapling the errors in my eye sockets to my brain,  
 this is us being here: walking the bike path, holding hands, wind and  
