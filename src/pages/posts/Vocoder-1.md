@@ -17,7 +17,7 @@ Both are subject to revisions.
 
 ---
 
-![Book cover for Vocoder: a man and woman from the 1950s plugging in a TV in front of a block diagram for a vocoder](/Vocoder.Cover-medium.webp "Vocoder cover by Hunter Sharp")
+![Book cover for Vocoder: a man and woman from the 1950s plugging in a TV in front of a block diagram for a vocoder](/Vocoder.Cover-min.webp "Vocoder cover by Hunter Sharp")
 
 
 **ODE TO PLATO’S CAMERA**  
