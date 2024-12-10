@@ -20,35 +20,35 @@ It's a year-long course in statistical modeling and machine learning for both ti
 
 
 ### Syllabus
-| Week | Chapter                                          | Homework  | Lab                                           |
+| # | Chapter                                          | HW  | Lab                                           |
 | ---- | ------------------------------------------------ | --------- | --------------------------------------------- |
 | 1    | Probability                                      | Notes     | -                                             |
-| 2    |                                                  | Exercises | Information Theory                            |
+| 2    |                                                  | Problem Sets | Information Theory                            |
 | 3    | Markov Processes                                 | Notes     | -                                             |
-| 4    |                                                  | Exercises | K-Means Clustering                            |
+| 4    |                                                  | Problem Sets | K-Means Clustering                            |
 | 5    | Classical Inference                              | Notes     | -                                             |
-| 6    |                                                  | Exercises | -                                             |
+| 6    |                                                  | Problem Sets | -                                             |
 | 7    | Regression                                       | Notes     | -                                             |
-| 8    |                                                  | Exercises | Linear and Logistic Regression                |
+| 8    |                                                  | Problem Sets | Linear and Logistic Regression                |
 | 9    | Graphical Models                                 | Notes     | -                                             |
-| 10   |                                                  | Exercises | Metropolis-Hastings                           |
+| 10   |                                                  | Problem Sets | Metropolis-Hastings                           |
 | 11   | Estimation in State-space Models                 | Notes     | -                                             |
-| 12   |                                                  | Exercises | Gaussian Mixture Models                       |
+| 12   |                                                  | Problem Sets | Gaussian Mixture Models                       |
 | 13   | Review of Multivariate Calculus and Optimization | Notes     | -                                             |
-| 14   |                                                  | Exercises | Discrete Hidden Markov Models                 |
+| 14   |                                                  | Problem Sets | Discrete Hidden Markov Models                 |
 | 15   | Machine Learning Basics                          | Notes     | -                                             |
-| 16   |                                                  | Exercises | Speech Recognition using CDHMMS               |
+| 16   |                                                  | Problem Sets | Speech Recognition using CDHMMS               |
 | 17   | Unsupervised Learning                            | Notes     | -                                             |
-| 18   |                                                  | Exercises | Kalman Filter                                 |
+| 18   |                                                  | Problem Sets | Kalman Filter                                 |
 | 19   | Linear Models                                    | Notes     | -                                             |
-| 20   |                                                  | Exercises | ARMA Models                                   |
+| 20   |                                                  | Problem Sets | ARMA Models                                   |
 | 21   | Decision Trees                                   | Notes     | -                                             |
-| 22   |                                                  | Exercises | Non-negative Matrix Factorization Recommender |
+| 22   |                                                  | Problem Sets | Non-negative Matrix Factorization Recommender |
 | 23   | Neural Networks                                  | Notes     | -                                             |
-| 24   |                                                  | Exercises | Recurrent Neural Networks                     |
+| 24   |                                                  | Problem Sets | Recurrent Neural Networks                     |
 | 25   | Deep Learning                                    | Notes     | -                                             |
-| 26   |                                                  | Exercises | Convolutional Neural Networks                 |
+| 26   |                                                  | Problem Sets | Convolutional Neural Networks                 |
 | 27   | Data Augmentation and Generation                 | Notes     | -                                             |
-| 28   |                                                  | Exercises | TBD                                           |
+| 28   |                                                  | Problem Sets | TBD                                           |
 | 29   | Reinforcement Learning                           | Notes     | -                                             |
-| 30   |                                                  | Exercises | TBD                                           |
+| 30   |                                                  | Problem Sets | TBD                                           |

@@ -24,37 +24,37 @@ This will include abstract vector spaces and inner product spaces, metric spaces
 
 ### Syllabus
 
-| Week | Chapter                               | Homework  | Lab                                     |
+| # | Chapter                               | HW  | Lab                                     |
 | ---- | ------------------------------------- | --------- | --------------------------------------- |
 | 1    | Abstract Vector Spaces                | Notes     | -                                       |
-| 2    | -                                      | Exercises | -                                        |
+| 2    | -                                      | Problem Sets | -                                        |
 | 3    | Linear Transformations and Matrices   | Notes     | Linear Transformations                  |
-| 4    | -                                      | Exercises | Linear Systems                          |
+| 4    | -                                      | Problem Sets | Linear Systems                          |
 | 5    | Inner Product Spaces                  | Notes     | The QR Decomposition                    |
-| 6    | -                                      | Exercises | Least Squares and Computing Eigenvalues |
+| 6    | -                                      | Problem Sets | Least Squares and Computing Eigenvalues |
 | 7    | Spectral Theory                       | Notes     | -                                       |
-| 8    | -                                      | Exercises | Image Segmentation           |
+| 8    | -                                      | Problem Sets | Image Segmentation           |
 | 9    | Metric Space Topology                 | Notes     | -                                       |
-| 10   | -                                      | Exercises | The SVD and Image Compression                      |
+| 10   | -                                      | Problem Sets | The SVD and Image Compression                      |
 | 11   | Differentiation                       | Notes     | -                                       |
-| 12   | -                                      | Exercises | Differentiation                         |
+| 12   | -                                      | Problem Sets | Differentiation                         |
 | 13   | Contraction Mappings and Applications | Notes     | -                                       |
-| 14   | -                                      | Exercises | Newton's Method                         |
+| 14   | -                                      | Problem Sets | Newton's Method                         |
 | 15   | Integration I                         | Notes     | -                                       |
-| 16   | -                                      | Exercises | Conditioning and Stability              |
+| 16   | -                                      | Problem Sets | Conditioning and Stability              |
 | 17   | Integration II                        | Notes     | -                                       |
-| 18   | -                                      | Exercises | Monte Carlo Integration                 |
+| 18   | -                                      | Problem Sets | Monte Carlo Integration                 |
 | 19   | Calculus on Manifolds                 | Notes     | -                                       |
-| 20   | -                                      | Exercises | -                                        |
+| 20   | -                                      | Problem Sets | -                                        |
 | 21   | Complex Analysis                      | Notes     | -                                       |
-| 22   | -                                      | Exercises | Visualizing Complex-valued Functions    |
+| 22   | -                                      | Problem Sets | Visualizing Complex-valued Functions    |
 | 23   | Spectral Calculus                     | Notes     | -                                        |
-| 24   | -                                      | Exercises | The PageRank Algorithm                  |
+| 24   | -                                      | Problem Sets | The PageRank Algorithm                  |
 | 25   | Iterative Methods                     | Notes     | -                                        |
-| 26   | -                                      | Exercises | Iterative Solvers                       |
+| 26   | -                                      | Problem Sets | Iterative Solvers                       |
 | 27   | Spectra and Pseudospectra             | Notes     | -                                        |
-| 28   | -                                      | Exercises | The Drazin Inverse                      |
+| 28   | -                                      | Problem Sets | The Drazin Inverse                      |
 | 29   | Rings and Polynomials                 | Notes     | -                                        |
-| 30   | -                                     | Exercises | GMRES                                   |
+| 30   | -                                     | Problem Sets | GMRES                                   |
 
 

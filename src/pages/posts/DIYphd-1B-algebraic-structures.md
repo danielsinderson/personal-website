@@ -19,36 +19,36 @@ This is course 1B in my [DIY graduate program](/posts/DIYphd-1), a year-long cou
 - I'll also be supplementing with ***Algebra: Chapter 0*** by Paulo Aluffi.
 
 ### Syllabus
-| Week | Chapter           | Homework  | Lab                            |
+| # | Chapter           | HW  | Lab                            |
 | ---- | ----------------- | --------- | ------------------------------ |
 | 1    | Introduction      | Notes     | -                              |
 | 2    | Basic Blocks      | Notes     | -                              |
-| 3    |                   | Exercises | Sets and Functions             |
-| 4    |                   | Exercises | Relations                      |
+| 3    |                   | Problem Sets | Sets and Functions             |
+| 4    |                   | Problem Sets | Relations                      |
 | 5    | E. Pluribus       | Notes     | -                              |
-| 6    |                   | Exercises | Semigroups and Free Semigroups |
-| 7    |                   | Exercises | Monoids and Groups             |
+| 6    |                   | Problem Sets | Semigroups and Free Semigroups |
+| 7    |                   | Problem Sets | Monoids and Groups             |
 | 8    | Order             | Notes     | -                     |
-| 9    |                   | Exercises | Trade-Offs and Poset Constructions            |
+| 9    |                   | Problem Sets | Trade-Offs and Poset Constructions            |
 | 10   | Points and Arrows | Notes     | -                              |
-| 11   |                   | Exercises |                                |
-| 12   |                   | Exercises |                                |
+| 11   |                   | Problem Sets |                                |
+| 12   |                   | Problem Sets |                                |
 | 13   | Thicker Arrows    | Notes     | -                              |
-| 14   |                   | Exercises |                                |
+| 14   |                   | Problem Sets |                                |
 | 15   | Co-Design         | Notes     | -                              |
-| 16   |                   | Exercises | Poset Bounds                   |
-| 17   |                   | Exercises |                                |
-| 18   |                   | Exercises |                                |
+| 16   |                   | Problem Sets | Poset Bounds                   |
+| 17   |                   | Problem Sets |                                |
+| 18   |                   | Problem Sets |                                |
 | 19   | Interconnections  | Notes     | -                              |
-| 20   |                   | Exercises |                                |
-| 21   |                   | Exercises |                                |
+| 20   |                   | Problem Sets |                                |
+| 21   |                   | Problem Sets |                                |
 | 22   | Occultism         | Notes     | -                              |
-| 23   |                   | Exercises |                                |
-| 24   |                   | Exercises |                                |
+| 23   |                   | Problem Sets |                                |
+| 24   |                   | Problem Sets |                                |
 | 25   | Naturality        | Notes     | -                              |
-| 26   |                   | Exercises |                                |
-| 27   |                   | Exercises |                                |
-| 28   |                   | Exercises |                                |
+| 26   |                   | Problem Sets |                                |
+| 27   |                   | Problem Sets |                                |
+| 28   |                   | Problem Sets |                                |
 | 29   | -                 | Exam 1    | -                              |
 | 30   | -                 | Exam 2    | -                              |
 

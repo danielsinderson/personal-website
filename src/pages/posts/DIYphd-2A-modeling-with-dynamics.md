@@ -23,12 +23,12 @@ It's a year-long course in dynamical systems, differential equations, and optima
 - This also includes a freely available [lab supplement](/public/FAM_lab_supplement_Volume4.pdf).
 
 ### Syllabus
-| Week | Chapter                                                                       | Homework  | Lab                                                        |
+| # | Chapter                                                                       | HW  | Lab                                                        |
 | ---- | ----------------------------------------------------------------------------- | --------- | ---------------------------------------------------------- |
 | 1    | Modeling                                                                      | Notes     |                                                            |
 | 2    | Existence and Uniqueness                                                      | Notes     | Intro to IVP and BVP                                       |
 | 3    | Stability Theory                                                              | Notes     |                                                            |
-| 4    |                                                                               | Exercises | Modeling the Spread of an Epidemic: SIR Models             |
+| 4    |                                                                               | Problem Sets | Modeling the Spread of an Epidemic: SIR Models             |
 | 5    | Bifurcation Theory                                                            | Notes     |                                                            |
 | 6    | PDE Introduction                                                              | Notes     | Predator-Prey Models                                       |
 | 7    | Hyperbolic PDE                                                                | Notes     |                                                            |
@@ -54,4 +54,4 @@ It's a year-long course in dynamical systems, differential equations, and optima
 | 27   | Control Theory: Discrete Case                                                 | Notes     |                                                            |
 | 28   | Linear Control Theory                                                         | Notes     | The Inverted Pendulum                                      |
 | 29   | Optimal Control                                                               | Notes     |                                                            |
-| 30   |                                                                               | Exercises | LQG                                                        |
+| 30   |                                                                               | Problem Sets | LQG                                                        |

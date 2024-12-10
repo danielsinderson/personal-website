@@ -20,35 +20,35 @@ The primary texts will be *Seven Sketches in Compositionality* by Brendan Fong a
 
 
 ### Syllabus
-| Week | Chapter                                                                      | Homework  | Lab |
+| # | Chapter                                                                      | HW  | Lab |
 | ---- | ---------------------------------------------------------------------------- | --------- | --- |
 | 1    | Generative Effects: Orders and Galois Connections                            | Notes     |     |
-| 2    |                                                                              | Exercises |     |
+| 2    |                                                                              | Problem Sets |     |
 | 3    | Resource Theories: Monoidal Preorders and Enrichment                         | Notes     |     |
-| 4    |                                                                              | Exercises |     |
+| 4    |                                                                              | Problem Sets |     |
 | 5    | Databases: Categories, Functors, and Universal Constructions                 | Notes     |     |
-| 6    |                                                                              | Exercises |     |
+| 6    |                                                                              | Problem Sets |     |
 | 7    | Collaborative Design: Profunctors, Categorification, and Monoidal Categories | Notes     |     |
-| 8    |                                                                              | Exercises |     |
+| 8    |                                                                              | Problem Sets |     |
 | 9    | Signal Flow Graphs: Props, Presentations, and Proofs                         | Notes     |     |
-| 10   |                                                                              | Exercises |     |
+| 10   |                                                                              | Problem Sets |     |
 | 11   | Electric Circuits: Hypergraph Categories and Operads                         | Notes     |     |
-| 12   |                                                                              | Exercises |     |
+| 12   |                                                                              | Problem Sets |     |
 | 13   | Logic of Behavior: Sheaves, Toposes, and Internal Languages                  | Notes     |     |
-| 14   |                                                                              | Exercises |     |
+| 14   |                                                                              | Problem Sets |     |
 | 15   |                                                                              | Notes     |     |
-| 16   | A Review of Basic Category Theory                                            | Exercises |     |
+| 16   | A Review of Basic Category Theory                                            | Problem Sets |     |
 | 17   |                                                                              | Notes     |     |
-| 18   |                                                                              | Exercises |     |
+| 18   |                                                                              | Problem Sets |     |
 | 19   | Introducing Two-Dimensional Category Theory                                  | Notes     |     |
-| 20   |                                                                              | Exercises |     |
+| 20   |                                                                              | Problem Sets |     |
 | 21   |                                                                              | Notes     |     |
-| 22   | Double Categories                                                            | Exercises |     |
+| 22   | Double Categories                                                            | Problem Sets |     |
 | 23   |                                                                              | Notes     |     |
-| 24   |                                                                              | Exercises |     |
+| 24   |                                                                              | Problem Sets |     |
 | 25   | Double Adjunctions                                                           | Notes     |     |
-| 26   |                                                                              | Exercises |     |
+| 26   |                                                                              | Problem Sets |     |
 | 27   |                                                                              | Notes     |     |
-| 28   | Double Limits                                                                | Exercises |     |
+| 28   | Double Limits                                                                | Problem Sets |     |
 | 29   |                                                                              | Notes     |     |
-| 30   |                                                                              | Exercises |     |
+| 30   |                                                                              | Problem Sets |     |

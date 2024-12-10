@@ -21,35 +21,35 @@ This will include algorithms and data structures, approximating functions with s
 
 
 ### Syllabus
-| Week | Chapter                                    | Homework  | Lab                                 |
+| # | Chapter                                    | HW  | Lab                                 |
 | ---- | ------------------------------------------ | --------- | ----------------------------------- |
 | 1    | Introduction to Algorithms and Analysis    | Notes     | -                                   |
-| 2    | -                                          | Exercises | Binary Tree Search                  |
+| 2    | -                                          | Problem Sets | Binary Tree Search                  |
 | 3    | Asymptotic Integrals                       | Notes     | -                                   |
-| 4    | -                                          | Exercises | Nearest Neighbor Search             |
+| 4    | -                                          | Problem Sets | Nearest Neighbor Search             |
 | 5    | Data Structures                            | Notes     | -                                   |
-| 6    | -                                          | Exercises | Breadth-first Search                |
+| 6    | -                                          | Problem Sets | Breadth-first Search                |
 | 7    | Combinatorial Optimization                 | Notes     | -                                   |
-| 8    | -                                          | Exercises | Dijkstra's Algorithm                |
+| 8    | -                                          | Problem Sets | Dijkstra's Algorithm                |
 | 9    | Probability                                | Notes     | -                                   |
-| 10   | -                                          | Exercises | Markov Chains                       |
+| 10   | -                                          | Problem Sets | Markov Chains                       |
 | 11   | Probabilistic Sampling and Estimation      | Notes     | -                                   |
-| 12   | -                                          | Exercises | Sampling                            |
+| 12   | -                                          | Problem Sets | Sampling                            |
 | 13   | Random Algorithms                          | Notes     | -                                   |
-| 14   | -                                          | Exercises | -                                   |
+| 14   | -                                          | Problem Sets | -                                   |
 | 15   | Harmonic Analysis                          | Notes     | -                                   |
-| 16   | -                                          | Exercises | The Discrete Fourier Transform      |
+| 16   | -                                          | Problem Sets | The Discrete Fourier Transform      |
 | 17   | Polynomial Approximation and Interpolation | Notes     | -                                   |
-| 18   | -                                          | Exercises | Convolution and Filtering           |
+| 18   | -                                          | Problem Sets | Convolution and Filtering           |
 | 19   | Fundamentals of Numerical Approximation    | Notes     | -                                   |
-| 20   | -                                          | Exercises | Introduction to Wavelets            |
+| 20   | -                                          | Problem Sets | Introduction to Wavelets            |
 | 21   | Unconstrained Optimization                 | Notes     | -                                   |
-| 22   | -                                          | Exercises | One-dimensional Optimization        |
+| 22   | -                                          | Problem Sets | One-dimensional Optimization        |
 | 23   | Linear Optimization                        | Notes     | -                                   |
-| 24   | -                                          | Exercises | The Simplex Method                  |
+| 24   | -                                          | Problem Sets | The Simplex Method                  |
 | 25   | Nonlinear Constrained Optimization         | Notes     | -                                   |
-| 26   | -                                          | Exercises | Reinforcement Learning 1: Gymnasium |
+| 26   | -                                          | Problem Sets | Reinforcement Learning 1: Gymnasium |
 | 27   | Convex Analysis and Optimization           | Notes     | -                                   |
-| 28   | -                                          | Exercises | CVXPY                               |
+| 28   | -                                          | Problem Sets | CVXPY                               |
 | 29   | Dynamic Opimization                        | Notes     | -                                   |
-| 30   | -                                          | Exercises | Dynamic Programming                 |
+| 30   | -                                          | Problem Sets | Dynamic Programming                 |
