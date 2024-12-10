@@ -38,7 +38,7 @@ When I write poems I like to cheat.
 I give myself obscure and oppressively specific constraints to get words on the page, then I abandon the constraints and begin revising.
 
 For the bulk of the poems in *Vocoder*, this constraint was to write a very specific kind of cento.
-If you're unfamiliar, a cento is a poem created by pulling lines from other poems and rearranging them: sort like poetic collage.
-I then added the constraint that the poem's stanzas correspond to the title: say the title was "The What of the Machine," then the poem would consist of five stanzas of lengths 3 | 4 | 2 | 3 | 7.
-As an additional difficulty, each line had to be pulled from a poet whose last name began with the letter in the title corresponding to that line.
-For example, using the title above, the first stanza corresponding to "The" could be made by a line from Tennyson, a line from Ito Hiromi, and a line from Larry Eigner.
+If you're unfamiliar, a cento is a sort of collage poem: you create it by pulling lines from other poems and rearranging them.
+On top of this I added the constraint that the poem's stanzas correspond to the title: say the title was "The What of the Machine," then the poem would consist of five stanzas of lengths 3 | 4 | 2 | 3 | 7.
+Lastly, each line had to be pulled from a poet whose last name began with the letter in the title corresponding to that line.
+Using the title above, the first stanza corresponding to "The" could be made by a line from Tennyson, a line from Ito Hiromi, and a line from Larry Eigner.

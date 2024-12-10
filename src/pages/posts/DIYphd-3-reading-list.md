@@ -15,15 +15,15 @@ This is a reading list of texts across the sciences and philosophy that utilize 
 It's the free-form research section of my [DIY graduate program](/posts/DIYphd-1).
 
 ### Reading List
-- *Mathematical Physics* by Richard Geroch
-- *Physics from Symmetry* by Jakob Schwichtenberg
-- *Life Itself* by Robert Rosen
-- *Anticipatory Systems* by Robert Rosen
-- *Applications of Automata Theory and Algebra* by John Rhodes
-- *Entropy and Diversity: The Axiomatic Approach* by Tom Leinster
-- *Elements and Relations* by Martin Zwick
-- *The Logic of Social Science* by James Mahoney
-- *Ex Machina: Coevolving Machines and the Origins of the Social Universe* by John H. Miller
-- *Governing the Commons* by Elinor Ostrom
-- *People and Forests: Communities, Institutions, and Governance* by Clark C. Gibson, Margaret A. McKean, and Elinor Ostrom
-- *Understanding Institutions: The Science and Philosophy of Living Together* by Francesco Guala
+- ***Mathematical Physics*** by Richard Geroch
+- ***Physics from Symmetry*** by Jakob Schwichtenberg
+- ***Life Itself*** by Robert Rosen
+- ***Anticipatory Systems*** by Robert Rosen
+- ***Applications of Automata Theory and Algebra*** by John Rhodes
+- ***Entropy and Diversity: The Axiomatic Approach*** by Tom Leinster
+- ***Elements and Relations* by Martin Zwick
+- ***The Logic of Social Science*** by James Mahoney
+- ***Ex Machina: Coevolving Machines and the Origins of the Social Universe*** by John H. Miller
+- ***Governing the Commons* by Elinor Ostrom
+- ***People and Forests: Communities, Institutions, and Governance*** by Clark C. Gibson, Margaret A. McKean, and Elinor Ostrom
+- ***Understanding Institutions: The Science and Philosophy of Living Together*** by Francesco Guala

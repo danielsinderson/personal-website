@@ -19,7 +19,7 @@ This is course 2A in my [DIY graduate program](/posts/DIYphd-1).
 It's a year-long course in dynamical systems, differential equations, and optimal control theory.
 
 ### Course Materials
-- The primary text will be *Foundations of Applied Mathematics vol. 4* by Jeffrey Humpherys, Tyler J. Jarvis, and Emily J. Evans. 
+- The primary text will be ***Foundations of Applied Mathematics vol. 4*** by Jeffrey Humpherys, Tyler J. Jarvis, and Emily J. Evans. 
 - This also includes a freely available [lab supplement](/FAM_lab_supplement_Volume4.pdf).
 
 ### Syllabus

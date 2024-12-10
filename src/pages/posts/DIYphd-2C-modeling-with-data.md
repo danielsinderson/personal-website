@@ -15,7 +15,7 @@ This is course 2C in my [DIY graduate program](/posts/DIYphd-1).
 It's a year-long course in statistical modeling and machine learning for both time-series and cross-sectional data.
 
 ### Course Materials
-- The primary text will be *Foundations of Applied Mathematics vol. 3* by Jeffrey Humpherys, Tyler J. Jarvis, and Emily J. Evans. 
+- The primary text will be ***Foundations of Applied Mathematics vol. 3*** by Jeffrey Humpherys, Tyler J. Jarvis, and Emily J. Evans. 
 - This also includes a freely available [lab supplement](/FAM_lab_supplement_Volume3.pdf).
 
 

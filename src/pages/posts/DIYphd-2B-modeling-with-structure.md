@@ -16,7 +16,7 @@ It's a year-long course in applied category theory and the basics of higher dime
 
 
 ### Course Materials
-The primary texts will be *Seven Sketches in Compositionality* by Brendan Fong and David Spivak and the first half of *Higher Dimensional Categories* by Marco Grandis.
+The primary texts will be ***Seven Sketches in Compositionality*** by Brendan Fong and David Spivak and the first half of ***Higher Dimensional Categories*** by Marco Grandis.
 
 
 ### Syllabus
