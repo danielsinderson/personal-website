@@ -17,7 +17,9 @@ Only one still works.
 
 So consider these museum pieces in the collection of janky, late night answers to questions like "what would it sound like to 'arpeggiate' based on the [Collatz sequence](https://github.com/danielsinderson/Arduino-Synthesizers/blob/master/COLLATZ/CollatzArpeggiatorTest/CollatzArpeggiatorTest.ino)?" Or "what if the goal of an instrument wasn't musicality, but its ability to produce [exceptionally rich spaceship screams](https://github.com/danielsinderson/Arduino-Synthesizers/tree/master/DRONE%20SYNTH)?"  
 
-**[audio samples]**  
+# Audio Samples
+**[drone synth]**  
+There's a lot of sound happening across the audio spectrum here. Use good speakers.   
 
 <audio controls src="/Drone Synth -- Test 1.mp3"></audio>  
 <a href="/Drone Synth -- Test 1.mp3">Download</a>  

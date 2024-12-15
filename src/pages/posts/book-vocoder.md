@@ -13,14 +13,19 @@ tags: ["poetry", "writing", "Vocoder"]
 This is my second book of poems.
 The poems are in their third to sixth revision, and I plan to abandon them into a printed book sometime in the next year.
 Below is a sample poem from the book and a candidate cover designed by the extremely talented Hunter Sharp.
-Both are subject to revisions.
+Both are subject to change.
 
 ---
 
-![Book cover for Vocoder: a man and woman from the 1950s plugging in a TV in front of a block diagram for a vocoder](/Vocoder.Cover-min.webp "Vocoder cover by Hunter Sharp")
+<img
+    class="fit-picture"
+    src="/Vocoder.Cover-big.webp"
+    title="Vocoder cover by Hunter Sharp"
+    alt="Book cover for Vocoder: a man and woman from the 1950s plugging in a TV in front of a block diagram for a vocoder"
+    style="border: 2px solid;"
+/>
 
-
-**ODE TO PLATO’S CAMERA**  
+# ODE TO PLATO’S CAMERA  
 The mind is a solvent.  
 It hurts.  
 Stapling the errors in my eye sockets to my brain,  
@@ -33,9 +38,9 @@ this small space where we say I-love-you
 and are changed by it.  
 
 ---
-
+# Process
 When I write poems I like to cheat.
-I give myself obscure and oppressively specific constraints to get words on the page, then I abandon the constraints and begin revising.
+I give myself obscure and oppressively specific constraints to get words on the page, then I abandon those constraints and begin revising.
 
 For the bulk of the poems in *Vocoder*, this constraint was to write a very specific kind of cento.
 If you're unfamiliar, a cento is a sort of collage poem: you create it by pulling lines from other poems and rearranging them.
