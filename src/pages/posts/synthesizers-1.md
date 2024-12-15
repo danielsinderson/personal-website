@@ -26,7 +26,7 @@ So consider these museum pieces in the collection of janky, late night answers t
 <a href="/Drone Synth -- Test 2.mp3">Download</a>  
 
 # The Thank-You Synth
-I made [this](https://www.hackster.io/danielsinderson/phasemod-drone-synth-w-arduino-nano-mozzi-7ab2ff) for a friend of mine who helped me with a repetitive stress injury. Below is a video of him using it when it arrived in the mail without instructions or warning. He's the best.  
+I made [this](https://www.hackster.io/danielsinderson/phasemod-drone-synth-w-arduino-nano-mozzi-7ab2ff) for a friend of mine who helped me with a repetitive stress injury. Below is a video of him using it when it arrived in the mail without instructions or warning. He's the best. The synth itself is just a doubling of a simple phase modulation synthesizer built with the fantastic [Mozzi](https://sensorium.github.io/Mozzi/) library.   
 
 ![](/synths1.webp "")
 
