@@ -157,11 +157,17 @@ p.poem {
 
 
 div.quote {
-    margin: 25px;
-    width: clamp(200px, 80%, 600px);
+    width: clamp(400px, 80%, 800px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 p.quote-body {
+    width: clamp(300px, 80%, 600px);
+    align-items: center;
+    justify-content: center;
     font-style: italic;
 }
 
