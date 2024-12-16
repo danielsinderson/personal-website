@@ -70,3 +70,25 @@ Filling in with the world like a prism and splitting it into names.
 ---
 # Process
 
+I started writing Tensegrity in early 2020.
+It's my COVID book, but it's also my new dad book and my Alameda fire book.  
+
+Before my daughter was born I gave up writing for about eight months to figure out how to do it without being a disruptive maniac.
+When I did, I saw my old voice didn't fit me.
+It was too hopeless, too corrosive, and too comfortable being so.
+So I took all the writing I did with that voice, all 500+ pages of it, and put it into a single text file.
+I then took that text file, turned it into a Markov model of the writer I used to be, and used the 50 word outputs from that model---bite size, nonsense caricatures of my old voice---as my starting point for something new.
+
+I think the result is an improvement.
+There is still some hopelessness, and some passages still corrode.
+But the comfort of giving up is gone.
+
+<div class=quote>
+<p class="quote-body">
+"The inferno of the living is not something that will be; if there is one, it is what is already here, the inferno where we live every day, that we form by being together. There are two ways to escape suffering it. The first is easy for many: accept the inferno and become such a part of it that you can no longer see it. The second is restky and demands constant vigilance and apprehension: seek and learn to recognize who and what, in the midst of the inferno, are not inferno, then make them endure, give them space."
+</p>
+<p class="quote-source">
+    —<b>Italo Calvino</b></br>
+    from <b>Invisible Cities</b>
+</p>
+</div>
