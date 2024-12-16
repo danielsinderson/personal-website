@@ -173,5 +173,5 @@ p.quote-body {
 
 p.quote-source {
     text-align: right;
-    margin-right: 10px;
+    width: clamp(300px, 80%, 600px);
 }
