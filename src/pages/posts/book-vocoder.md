@@ -102,7 +102,7 @@ a likeness of something numberless
     &emsp;I can't picture now.  
 Poverty moves in and out of my home.  
 
-Life is a blizzard. It's a blizzard. It's burning.  
+Life is a blizzard. It's a blizzard. It burns.  
 Like a premise or a scar  
 the purest harvests are sown in a soil that doesn't exist.  
 Day recedes to darkness,  
