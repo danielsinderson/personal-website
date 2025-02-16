@@ -51,32 +51,65 @@ Using the title above, the first stanza corresponding to "The" could be made by 
 In fact, the whole thing could look like this.
 
 ## THE WHAT OF THE MACHINE (initial cento)
-One equal temper of heroic hearts, **(Ulysses; Alfred Tennyson)**
-trying to get away from dogs and people **(I Am Chito; Ito Hiromi)**
-in a cold flame, **(Five Poems; Larry Eigner)**
+One equal temper of heroic hearts, **(Ulysses; Alfred Tennyson)**   
+trying to get away from dogs and people **(I Am Chito; Ito Hiromi)**   
+in a cold flame, **(Five Poems; Larry Eigner)**   
 
-I'm on my way to America. **(IOVIS XIX; Anne Waldman)**
-Awakening details,
-        the shadow of a bench dissolving into white sand: **(Combination II; Helmut Heissenbuttel)**
-how many constants should there be? **(Native; Rae Armantrout)**
-Dressed up in useless metal puzzles **(The Approximate Man; Tristan Tzara)**
+I'm on my way to America. **(IOVIS XIX; Anne Waldman)**   
+Awakening details,   
+        the shadow of a bench dissolving into white sand: **(Combination II; Helmut Heissenbuttel)**   
+how many constants should there be? **(Native; Rae Armantrout)**   
+Dressed up in useless metal puzzles **(The Approximate Man; Tristan Tzara)**   
 
-you watch **(The Murderers; Paul van Ostaijen)**
-a green blinker | a red blinker | the rainbow's hoop. **(Poster Poem; Ian Hamilton Finlay)**
+you watch **(The Murderers; Paul van Ostaijen)**   
+a green blinker | a red blinker | the rainbow's hoop. **(Poster Poem; Ian Hamilton Finlay)**   
 
-The light in the skull of the bird, **(Lyrics for the Bride of God; Nathaniel Tarn)**
-a likeness of something numberless:
-        I can't picture now. **([But isn't midnight intermittent]; Lyn Hejinian)**
-Poverty moved into my homestead. **(Abuse Poems: For Kodzo & Others; Komi Ekpe)**
+The light in the skull of the bird, **(Lyrics for the Bride of God; Nathaniel Tarn)**   
+a likeness of something numberless:   
+        I can't picture now. **([But isn't midnight intermittent]; Lyn Hejinian)**   
+Poverty moved into my homestead. **(Abuse Poems: For Kodzo & Others; Komi Ekpe)**   
 
-(Life is a blizzard, it's a blizzard, it's burning) **(Monkey-Eaters; Takahashi Mutsuo)**
-like a premise or a scar **(Abania & the Death of Enver Hoxha; Will Alexander)**
-the purest harvests are sown in a soil that doesn't exist. **(Leaves of Hypnos; Rene Char)**
-Day recedes to darkness,
-        dissolving sky to lavender,
-                hardly a murmur, **(Aller/Retour; Theresa Hak Kyung Cha)**
-only the compass keeping hope alive. **(Logbook of a Lost Caravan; Gyula Illyes)**
-With fingers pointing upward,
-        with fingers that we lick to test the wind, **(City with Towers; Vitezslav Nezval)**
-it's pure word.
-        To perceive it is to realize it. **(Text and Commentary; Elke Erb)**
+(Life is a blizzard, it's a blizzard, it's burning) **(Monkey-Eaters; Takahashi Mutsuo)**   
+like a premise or a scar **(Abania & the Death of Enver Hoxha; Will Alexander)**   
+the purest harvests are sown in a soil that doesn't exist. **(Leaves of Hypnos; Rene Char)**   
+Day recedes to darkness,   
+        dissolving sky to lavender,   
+                hardly a murmur, **(Aller/Retour; Theresa Hak Kyung Cha)**   
+only the compass keeping hope alive. **(Logbook of a Lost Caravan; Gyula Illyes)**   
+With fingers pointing upward,   
+        with fingers that we lick to test the wind, **(City with Towers; Vitezslav Nezval)**   
+it's pure word.   
+        To perceive it is to realize it. **(Text and Commentary; Elke Erb)**   
+
+
+## THE WHAT OF THE MACHINE (initial revision)
+
+I used to pretend I was a hero.  
+Coward, I'd run from dogs and people and living  
+in a cold flame.  
+
+I'm on my way to America again.  
+Awakening details,  
+        the shadow of the bench I used to sleep on dissolving into white sand:  
+how many constants should there be?  
+Dressed up in useless metal puzzles  
+
+we watch  
+a green blinker | a red blinker | the slivers of a dream made machine.  
+
+I saw light fill the skulls of the birds my cat ate:  
+a likeness of something numberless  
+        I can't picture now.  
+Poverty moves in and out of my home.  
+
+Life is a blizzard. It's a blizzard. It's burning.  
+Like a premise or a scar  
+the purest harvests are sown in a soil that doesn't exist.  
+Day recedes to darkness,  
+        dissolving sky to lavender,  
+                hardly a murmur,  
+only the compass keeping hope alive.  
+With fingers pointing upward,  
+        with fingers that we lick to test the wind,  
+what we feel is pure word.  
+        To perceive it is to realize it.  
