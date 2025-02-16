@@ -44,6 +44,41 @@ I give myself obscure and oppressively specific constraints to get words on the 
 
 For the bulk of the poems in *Vocoder*, this constraint was to write a very specific kind of cento.
 If you're unfamiliar, a cento is a sort of collage poem: you create it by pulling lines from other poems and rearranging them.
-On top of this I added the constraint that the poem's stanzas correspond to the title: say the title was "The What of the Machine," then the poem would consist of five stanzas of lengths 3 | 4 | 2 | 3 | 7.
+On top of this I added the constraint that the poem's stanzas correspond to the title.
+Say the title was "The What of the Machine," then the poem would consist of five stanzas of lengths 3 | 4 | 2 | 3 | 7.
 Lastly, each line had to be pulled from a poet whose last name began with the letter in the title corresponding to that line.
 Using the title above, the first stanza corresponding to "The" could be made by a line from Tennyson, a line from Ito Hiromi, and a line from Larry Eigner.
+In fact, the whole thing could look like this.
+
+## THE WHAT OF THE MACHINE (initial cento)
+
+One equal temper of heroic hearts, **(Ulysses; Alfred Tennyson)**
+trying to get away from dogs and people **(I Am Chito; Ito Hiromi)**
+in a cold flame, **(Five Poems; Larry Eigner)**
+
+I'm on my way to America. **(IOVIS XIX; Anne Waldman)**
+Awakening details.
+        The shadow of a bench dissolving into white sand **(Combination II; Helmut Heissenbuttel)**
+How many constants should there be?
+        The slick wall of teeth? **(Native; Rae Armantrout)**
+Dressed up in useless metal puzzles **(The Approximate Man; Tristan Tzara)**
+
+you watch **(The Murderers; Paul van Ostaijen)**
+a green blinker | a red blinker | the rainbow's hoop. **(Poster Poem; Ian Hamilton Finlay)**
+
+The light in the skull of the bird **(Lyrics for the Bride of God; Nathaniel Tarn)**
+A likeness of something numberless
+        I can't picture now. **([But isn't midnight intermittent]; Lyn Hejinian)**
+Poverty moved into my homestead. **(Abuse Poems: For Kodzo & Others; Komi Ekpe)**
+
+(Life is a blizzard, it's a blizzard, it's burning) **(Monkey-Eaters; Takahashi Mutsuo)**
+like a premise or a scar **(Albania & the Death of Enver Hoxha; Will Alexander)**
+the purest harvests are sown in a soil that doesn't exist. **(Leaves of Hypnos; Rene Char)**
+Day recedes to darkness
+        dissolving sky to lavender
+                hardly a murmur **(Aller/Retour; Theresa Hak Kyung Cha)**
+only the compass keeping hope alive **(Logbook of a Lost Caravan; Gyula Illyes)**
+with fingers pointing upward
+        with fingers that we lick to test the wind **(City with Towers; Vitezslav Nezval)**
+Its pure word.
+        To perceive it is to realize it. **(Text and Commentary; Elke Erb)**

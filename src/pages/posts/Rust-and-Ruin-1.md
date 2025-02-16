@@ -12,7 +12,7 @@ tags: ["Rust & Ruin", "ttrpgs", "role-playing games", "game design"]
 ---
 Rust & Ruin is a tabletop roleplaying game.
 I started it in December 2023, having stolen the name from a previous game I designed a year before.
-Though the game is far from finished, it's taken the place of Dungeons & Dragons 5E in my weekly games with no complaints from my players or myself---though I'm biased, and they're all very nice.  
+Though the game is far from finished, it's taken the place of Dungeons & Dragons 5E in my weekly games with no complaints from my players or myself--though I'm biased, and they're all very nice.  
 
 The game is also being designed by my friend Dana, who stepped up from being "merely" a play-tester to become a co-designer last summer, and my other friend and play-tester Hunter is responsible for the logo below. It's radical and I love it.
 
