@@ -50,7 +50,7 @@ Lastly, each line had to be pulled from a poet whose last name began with the le
 Using the title above, the first stanza corresponding to "The" could be made by a line from Tennyson, a line from Ito Hiromi, and a line from Larry Eigner.
 In fact, the whole thing could look like this.
 
-## THE WHAT OF THE MACHINE (initial cento)
+# THE WHAT OF THE MACHINE (initial cento)
 One equal temper of heroic hearts, **(Ulysses; Alfred Tennyson)**   
 trying to get away from dogs and people **(I Am Chito; Ito Hiromi)**   
 in a cold flame, **(Five Poems; Larry Eigner)**   
@@ -82,7 +82,7 @@ it's pure word.
         To perceive it is to realize it. **(Text and Commentary; Elke Erb)**   
 
 
-## THE WHAT OF THE MACHINE (initial revision)
+# THE WHAT OF THE MACHINE (initial revision)
 
 I used to pretend I was a hero.  
 Coward, I'd run from dogs and people and living  
