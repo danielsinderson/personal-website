@@ -78,35 +78,35 @@ Erb, Elke; *Text and Commentary*
 
 
 # THE WHAT OF THE MACHINE (initial cento)
-One equal temper of heroic hearts, 
-trying to get away from dogs and people 
-in a cold flame,
+One equal temper of heroic hearts,   
+trying to get away from dogs and people   
+in a cold flame,    
 
-I'm on my way to America.
+I'm on my way to America.     
 Awakening details,   
-        &emsp;the shadow of a bench dissolving into white sand:
-how many constants should there be? 
-Dressed up in useless metal puzzles
+        &emsp;the shadow of a bench dissolving into white sand:     
+how many constants should there be?    
+Dressed up in useless metal puzzles     
 
-you watch
-a green blinker | a red blinker | the rainbow's hoop. 
+you watch     
+a green blinker | a red blinker | the rainbow's hoop.     
 
-The light in the skull of the bird, 
-a likeness of something numberless:   
-        &emsp;I can't picture now. 
-Poverty moved into my homestead. 
-
-(Life is a blizzard, it's a blizzard, it's burning) 
-like a premise or a scar  
-the purest harvests are sown in a soil that doesn't exist. 
-Day recedes to darkness,   
-        &emsp;dissolving sky to lavender,   
-                &emsp;&emsp;hardly a murmur,  
-only the compass keeping hope alive.  
-With fingers pointing upward,   
-        &emsp;with fingers that we lick to test the wind,    
-it's pure word.   
-        &emsp;To perceive it is to realize it.    
+The light in the skull of the bird,     
+a likeness of something numberless:    
+        &emsp;I can't picture now.    
+Poverty moved into my homestead.     
+ 
+(Life is a blizzard, it's a blizzard, it's burning)     
+like a premise or a scar      
+the purest harvests are sown in a soil that doesn't exist.    
+Day recedes to darkness,      
+        &emsp;dissolving sky to lavender,     
+                &emsp;&emsp;hardly a murmur,     
+only the compass keeping hope alive.     
+With fingers pointing upward,      
+        &emsp;with fingers that we lick to test the wind,       
+it's pure word.      
+        &emsp;To perceive it is to realize it.       
 
 
 # THE WHAT OF THE MACHINE (initial revision)
