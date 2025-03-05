@@ -50,36 +50,63 @@ Lastly, each line had to be pulled from a poet whose last name began with the le
 Using the title above, the first stanza corresponding to "The" could be made by a line from Tennyson, a line from Ito Hiromi, and a line from Larry Eigner.
 In fact, the whole thing could look like this.
 
+
+# THE WHAT OF THE MACHINE (structure)
+Tennyson, Alfred; *Ulysses*   
+Hiromi, Ito; *I Am Chito*   
+Eigner, Larry; *Five Poems*    
+
+Waldman, Anne; *IOVIS XIX*   
+Heissenbuttel, Helmut; *Combination II*    
+Armantrout, Rae; *Native*     
+Tzara, Tristan; *The Approximate Man*     
+
+Ostaijen, Paul van; *The Murderers*    
+Finlay, Ian Hamilton; *Poster Poem*    
+
+Tarn, Nathaniel; *Lyrics for the Bride of God*     
+Hejinian, Lyn; *[But isn't midnight intermittent]*    
+Ekpe, Komi; *Abuse Poems: For Kodzo & Others*    
+
+Mutsuo, Takahashi; *Monkey-Eaters*    
+Alexander, Will; *Abania & the Death of Enver Hoxha*    
+Char, Rene; *Leaves of Hypnos*    
+Cha, Theresa Hak Kyung; *Aller/Retour*    
+Illyes, Gyula; *Logbook of a Lost Caravan*    
+Nezval, Vitezslav; *City with Towers*    
+Erb, Elke; *Text and Commentary*   
+
+
 # THE WHAT OF THE MACHINE (initial cento)
-One equal temper of heroic hearts, **(Ulysses; Alfred Tennyson)**   
-trying to get away from dogs and people **(I Am Chito; Ito Hiromi)**   
-in a cold flame, **(Five Poems; Larry Eigner)**   
+One equal temper of heroic hearts, 
+trying to get away from dogs and people 
+in a cold flame,
 
-I'm on my way to America. **(IOVIS XIX; Anne Waldman)**   
+I'm on my way to America.
 Awakening details,   
-        &emsp;the shadow of a bench dissolving into white sand: **(Combination II; Helmut Heissenbuttel)**   
-how many constants should there be? **(Native; Rae Armantrout)**   
-Dressed up in useless metal puzzles **(The Approximate Man; Tristan Tzara)**   
+        &emsp;the shadow of a bench dissolving into white sand:
+how many constants should there be? 
+Dressed up in useless metal puzzles
 
-you watch **(The Murderers; Paul van Ostaijen)**   
-a green blinker | a red blinker | the rainbow's hoop. **(Poster Poem; Ian Hamilton Finlay)**   
+you watch
+a green blinker | a red blinker | the rainbow's hoop. 
 
-The light in the skull of the bird, **(Lyrics for the Bride of God; Nathaniel Tarn)**   
+The light in the skull of the bird, 
 a likeness of something numberless:   
-        &emsp;I can't picture now. **([But isn't midnight intermittent]; Lyn Hejinian)**   
-Poverty moved into my homestead. **(Abuse Poems: For Kodzo & Others; Komi Ekpe)**   
+        &emsp;I can't picture now. 
+Poverty moved into my homestead. 
 
-(Life is a blizzard, it's a blizzard, it's burning) **(Monkey-Eaters; Takahashi Mutsuo)**   
-like a premise or a scar **(Abania & the Death of Enver Hoxha; Will Alexander)**   
-the purest harvests are sown in a soil that doesn't exist. **(Leaves of Hypnos; Rene Char)**   
+(Life is a blizzard, it's a blizzard, it's burning) 
+like a premise or a scar  
+the purest harvests are sown in a soil that doesn't exist. 
 Day recedes to darkness,   
         &emsp;dissolving sky to lavender,   
-                &emsp;&emsp;hardly a murmur, **(Aller/Retour; Theresa Hak Kyung Cha)**   
-only the compass keeping hope alive. **(Logbook of a Lost Caravan; Gyula Illyes)**   
+                &emsp;&emsp;hardly a murmur,  
+only the compass keeping hope alive.  
 With fingers pointing upward,   
-        &emsp;with fingers that we lick to test the wind, **(City with Towers; Vitezslav Nezval)**   
+        &emsp;with fingers that we lick to test the wind,    
 it's pure word.   
-        &emsp;To perceive it is to realize it. **(Text and Commentary; Elke Erb)**   
+        &emsp;To perceive it is to realize it.    
 
 
 # THE WHAT OF THE MACHINE (initial revision)
