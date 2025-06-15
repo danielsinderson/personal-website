@@ -27,3 +27,4 @@ It's the free-form research section of my [DIY graduate program](/posts/DIYphd-1
 - ***Governing the Commons*** by Elinor Ostrom
 - ***People and Forests: Communities, Institutions, and Governance*** by Clark C. Gibson, Margaret A. McKean, and Elinor Ostrom
 - ***Understanding Institutions: The Science and Philosophy of Living Together*** by Francesco Guala
+- ***Mathematical Structure of Syntactic Merge*** by Matilde Marcolli, Noam Chomsky, and Robert C. Berwick
