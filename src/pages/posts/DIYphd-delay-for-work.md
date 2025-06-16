@@ -25,6 +25,8 @@ So, with that in mind, I present my sidequest!
 - [x] ***Fundamentals of Data Engineering*** by Joe Reis and Matt Housley
 - [x] ***DAMA-DMBOK: Data Management Body of Knowledge*** by DAMA International
 - [x] ***SQL Antipatterns: Avoiding the Pitfalls of Database Programming*** by Bill Karwin 
+- [ ] ***The Tidynomicon*** by Greg Wilson
+- [ ] ***Statistical Data Cleaning with Applications in R*** by Mark van der Loo and Edwin de Jonge
 - [ ] ***A Business Analyst's Introduction to Business Analytics*** by Adam Fleischhacker
 - [ ] ***Forecasting Principles and Practice 3e*** by Rob J. Hyndman and George Athanasopoulos
 - [ ] ***Statistical Rethinking*** by Richard McElreath
