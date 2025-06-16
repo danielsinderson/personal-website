@@ -2,7 +2,7 @@
 layout: ../../layouts/CourseBlogLayout.astro
 title: 'Delaying my Self-Study Graduate Curriculum'
 pubDate: 2025-04-10
-date: "April 10, 2025"
+date: "April 10, 2025 | June 16, 2025"
 description: 'Delaying my Self-Study Graduate Program'
 author: 'Daniel Sinderson'
 image:
@@ -23,12 +23,9 @@ So, with that in mind, I present my sidequest!
 # Sidequest Business Curriculum
 - [x] ***R for Data Science*** by Garrett Grolemund, Hadley Wickham, and Mine Çetinkaya
 - [x] ***Fundamentals of Data Engineering*** by Joe Reis and Matt Housley
-- [ ] ***DAMA-DMBOK: Data Management Body of Knowledge*** by DAMA International
-- [ ] ***SQL Antipatterns: Avoiding the Pitfalls of Database Programming*** by Bill Karwin 
-- [ ] ***Tidy Modeling*** by Max Kuhn and Julia Silge
-- [ ] ***Causal Inference in R*** by Malcolm Barrett, Lucy D’Agostino McGowan, and Travis Gerke
+- [x] ***DAMA-DMBOK: Data Management Body of Knowledge*** by DAMA International
+- [x] ***SQL Antipatterns: Avoiding the Pitfalls of Database Programming*** by Bill Karwin 
+- [ ] ***A Business Analyst's Introduction to Business Analytics*** by Adam Fleischhacker
 - [ ] ***Forecasting Principles and Practice 3e*** by Rob J. Hyndman and George Athanasopoulos
-- [ ] ***Text Mining with R: A Tidy Approach*** by Julia Silge and David Robinson
-- [ ] ***Beyond Multiple Linear Regression*** by Paul Roback and Julie Legler
+- [ ] ***Statistical Rethinking*** by Richard McElreath
 
-# 

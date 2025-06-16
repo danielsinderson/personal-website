@@ -51,5 +51,5 @@ This will include algorithms and data structures, approximating functions with s
 | 26   | -                                          | Problem Sets | Reinforcement Learning 1: Gymnasium |
 | 27   | Convex Analysis and Optimization           | Notes     | -                                   |
 | 28   | -                                          | Problem Sets | CVXPY                               |
-| 29   | Dynamic Opimization                        | Notes     | -                                   |
+| 29   | Dynamic Optimization                        | Notes     | -                                   |
 | 30   | -                                          | Problem Sets | Dynamic Programming                 |
