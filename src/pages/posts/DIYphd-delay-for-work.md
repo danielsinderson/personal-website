@@ -28,6 +28,9 @@ So, with that in mind, I present my sidequest!
 - [ ] ***The Tidynomicon*** by Greg Wilson
 - [ ] ***Statistical Data Cleaning with Applications in R*** by Mark van der Loo and Edwin de Jonge
 - [ ] ***A Business Analyst's Introduction to Business Analytics*** by Adam Fleischhacker
+- [ ] ***Fundamentals of Data Visualization*** by Claus O. Wilke
 - [ ] ***Forecasting Principles and Practice 3e*** by Rob J. Hyndman and George Athanasopoulos
 - [ ] ***Statistical Rethinking*** by Richard McElreath
+- [ ] ***Exploring Modeling with Data and Differential Equations Using R*** by John M. Zobitz
+
 

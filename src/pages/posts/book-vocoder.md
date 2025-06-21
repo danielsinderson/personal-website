@@ -71,7 +71,7 @@ Ekpe, Komi; *Abuse Poems: For Kodzo & Others*
 Mutsuo, Takahashi; *Monkey-Eaters*    
 Alexander, Will; *Abania & the Death of Enver Hoxha*    
 Char, Rene; *Leaves of Hypnos*    
-Cha, Theresa Hak Kyung; *Aller/Retour*    
+Hak Kyung Cha, Theresa; *Aller/Retour*    
 Illyes, Gyula; *Logbook of a Lost Caravan*    
 Nezval, Vitezslav; *City with Towers*    
 Erb, Elke; *Text and Commentary*   
