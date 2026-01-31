@@ -15,8 +15,7 @@ This is course 1B in my [DIY graduate program](/posts/DIYphd-1), a year-long cou
 
 
 ### Course Materials
-- The primary text will be ***Applied Compositional Thinking for Engineers***, an in-progress draft by the Frazzoli group at ETH Zurich and the Zardini group at MIT. It's freely available [here](https://applied-compositional-thinking.engineering/wp-content/uploads/2021/12/ACT4E-public-slow.pdf).
-- I'll also be reading ***Algebra: Chapter 0*** by Paulo Aluffi as time allows.
+- The primary text will be ***Applied Compositional Thinking for Engineers***, an in-progress draft by the Frazzoli group at ETH Zurich and the Zardini group at MIT. It's freely available [here](https://storage.zuper.ai/sync/ACT4E/ACT4E/alphubel-prod/build/last/build-public/ACT4E-public.pdf).
 
 ### Syllabus
 | # | Chapter           | HW  | Lab                            |
