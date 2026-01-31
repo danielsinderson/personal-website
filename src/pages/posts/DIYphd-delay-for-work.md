@@ -21,16 +21,32 @@ So, with that in mind, I present my sidequest!
 
 
 # Sidequest Business Curriculum
+#### Basics
 - [x] ***R for Data Science*** by Garrett Grolemund, Hadley Wickham, and Mine Çetinkaya
+- [x] ***Elements of Data Analytic Style*** by Jeff Leek
+- [x] ***Fundamentals of Data Visualization*** by Claus O. Wilke
 - [x] ***Fundamentals of Data Engineering*** by Joe Reis and Matt Housley
+- [x] ***The Tidynomicon*** by Greg Wilson
+
+#### Data Management
 - [x] ***DAMA-DMBOK: Data Management Body of Knowledge*** by DAMA International
 - [x] ***SQL Antipatterns: Avoiding the Pitfalls of Database Programming*** by Bill Karwin 
-- [x] ***The Tidynomicon*** by Greg Wilson
+- [x] ***DuckDB in Action*** by Mark Needham, Michael Hunger, and Michael Simons
+- [ ] ***The Data Warehouse Toolkit 3e*** by Ralph Kimball and Margy Ross
 - [x] ***Statistical Data Cleaning with Applications in R*** by Mark van der Loo and Edwin de Jonge
-- [ ] ***Forecasting Principles and Practice 3e*** by Rob J. Hyndman and George Athanasopoulos
-- [ ] ***Inventory Analytics*** by Roberto Rossi
-- [ ] ***Statistical Rethinking*** by Richard McElreath
+- [ ] ***Meeting the Challenges of Data Quality Management*** by Laura Sebastien-Coleman
+- [ ] ***Data and Reality*** by William Kent
+- [ ] ***Foundations of Databases*** by Serge Abiteboul, Richard Hull, and Victor Vianu
+
+#### Data Analysis
+- [x] ***Profiting from Your Forecasting Software*** by Paul Goodwin
+- [x] ***Forecasting Principles and Practice 3e*** by Rob J. Hyndman and George Athanasopoulos
 - [ ] ***Exploring Modeling with Data and Differential Equations Using R*** by John M. Zobitz
-- [ ] ***Fundamentals of Data Visualization*** by Claus O. Wilke
+- [ ] ***Introduction to Modern Statistics 2e*** by Mine Cetinkaya-Rundel and Johanna Hardin
+- [ ] ***Statistical Rethinking*** by Richard McElreath
+- [ ] ***Introduction to Statistical Learning 2e*** by by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+- [ ] ***Interpretable Machine Learning*** by Christopher Molnar
+
+
 
 
