@@ -21,32 +21,33 @@ So, with that in mind, I present my sidequest!
 
 
 # Sidequest Business Curriculum
-#### Basics
-- [x] ***R for Data Science*** by Garrett Grolemund, Hadley Wickham, and Mine Çetinkaya
-- [x] ***Elements of Data Analytic Style*** by Jeff Leek
-- [x] ***Fundamentals of Data Visualization*** by Claus O. Wilke
-- [x] ***Fundamentals of Data Engineering*** by Joe Reis and Matt Housley
-- [x] ***The Tidynomicon*** by Greg Wilson
+#### Data Science Basics and Programming in R
+- [ ] [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
+- [ ] [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham
+- [ ] [R Packages 2e](https://r-pkgs.org/) by Hadley Wickham and Jennifer Bryan
+- [x] [R for Data Science 2e](https://r4ds.hadley.nz/) by Garrett Grolemund, Hadley Wickham, and Mine Çetinkaya
+- [ ] [Introduction to Modern Statistics 2e](https://openintrostat.github.io/ims/index.html) by Mine Cetinkaya-Rundel and Johanna Hardin
+- [x] [Elements of Data Analytic Style](https://leanpub.com/datastyle) by Jeff Leek
+- [x] [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 
 #### Data Management
+- [ ] [Data Engineering Design Patterns](https://www.dedp.online/) by Simon Späti
+- [x] [Scaling Up With R and Arrow](https://arrowrbook.com/) by Nic Crane, Jonathan Keane, and Neal Richardson
+- [x] [DuckDB in Action](https://motherduck.com/duckdb-book-brief/) by Mark Needham, Michael Hunger, and Michael Simons
+- [ ] ***The Data Warehouse Toolkit 3e*** by Ralph Kimball and Margy Ross
+- [x] ***Fundamentals of Data Engineering*** by Joe Reis and Matt Housley
 - [x] ***DAMA-DMBOK: Data Management Body of Knowledge*** by DAMA International
 - [x] ***SQL Antipatterns: Avoiding the Pitfalls of Database Programming*** by Bill Karwin 
-- [x] ***DuckDB in Action*** by Mark Needham, Michael Hunger, and Michael Simons
-- [ ] ***The Data Warehouse Toolkit 3e*** by Ralph Kimball and Margy Ross
 - [x] ***Statistical Data Cleaning with Applications in R*** by Mark van der Loo and Edwin de Jonge
 - [ ] ***Meeting the Challenges of Data Quality Management*** by Laura Sebastien-Coleman
-- [ ] ***Data and Reality*** by William Kent
-- [ ] ***Foundations of Databases*** by Serge Abiteboul, Richard Hull, and Victor Vianu
 
 #### Data Analysis
 - [x] ***Profiting from Your Forecasting Software*** by Paul Goodwin
-- [x] ***Forecasting Principles and Practice 3e*** by Rob J. Hyndman and George Athanasopoulos
-- [ ] ***Exploring Modeling with Data and Differential Equations Using R*** by John M. Zobitz
-- [ ] ***Introduction to Modern Statistics 2e*** by Mine Cetinkaya-Rundel and Johanna Hardin
-- [ ] ***Statistical Rethinking*** by Richard McElreath
-- [ ] ***Introduction to Statistical Learning 2e*** by by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
-- [ ] ***Interpretable Machine Learning*** by Christopher Molnar
-
+- [x] [Forecasting Principles and Practice 3e](https://otexts.com/fpp3/) by Rob J. Hyndman and George Athanasopoulos
+- [ ] [Statistical Rethinking](https://xcelab.net/rm/) by Richard McElreath
+- [ ] [Introduction to Statistical Learning 2e](https://www.statlearning.com/) by by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+- [ ] [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christopher Molnar
+- [ ] [Exploring Modeling with Data and Differential Equations Using R](https://jmzobitz.github.io/ModelingWithR/) by John M. Zobitz
 
 
 
