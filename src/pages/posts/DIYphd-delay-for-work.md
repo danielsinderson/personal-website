@@ -49,7 +49,7 @@ So, with that in mind, I present my sidequest!
 #### Time Series Analysis and Forecasting
 - [x] ***Profiting from Your Forecasting Software*** by Paul Goodwin
 - [x] [Forecasting Principles and Practice 3e](https://otexts.com/fpp3/) by Rob J. Hyndman and George Athanasopoulos
-- [ ] ***Time Series: Modeling, Computation, and Inference*** by Raquel Prado, Marco A. R. Ferreira, and Mike West
+- [ ] [Forecasting and Analytics with the Augmented Dynamic Adaptive Model](https://openforecast.org/adam/) by Ivan Svetunkov
 - [ ] [Exploring Modeling with Data and Differential Equations Using R](https://jmzobitz.github.io/ModelingWithR/) by John M. Zobitz
 
 
@@ -57,9 +57,9 @@ So, with that in mind, I present my sidequest!
 - [ ] [Introduction to Modern Statistics 2e](https://openintrostat.github.io/ims/index.html) by Mine Cetinkaya-Rundel and Johanna Hardin
 - [ ] [Statistical Rethinking](https://xcelab.net/rm/) by Richard McElreath
 - [ ] [Introduction to Statistical Learning 2e](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
-- [ ] [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christopher Molnar
-- [ ] ***Analytics in a Big Data World*** by Bart Baesens
 - [ ] ***Data Mining: Concepts and Techniques*** by Jiawei Han, Jian Pei, and Hanghang Tong
+- [ ] [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christopher Molnar
+
 
 
 
