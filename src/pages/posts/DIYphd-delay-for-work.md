@@ -31,7 +31,7 @@ So, with that in mind, I present my sidequest!
 - [x] [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
 - [ ] [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham
 - [ ] [R Packages 2e](https://r-pkgs.org/) by Hadley Wickham and Jennifer Bryan
-- [ ] [Logic for Programmers]()
+- [ ] [Logic for Programmers](https://leanpub.com/logic)
 
 
 #### Data Engineering
