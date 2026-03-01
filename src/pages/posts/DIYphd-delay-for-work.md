@@ -22,12 +22,16 @@ So, with that in mind, I present my sidequest!
 
 # Sidequest Business Curriculum
 #### Data Science Basics and Programming in R
-- [x] [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
-- [ ] [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham
-- [ ] [R Packages 2e](https://r-pkgs.org/) by Hadley Wickham and Jennifer Bryan
 - [x] [R for Data Science 2e](https://r4ds.hadley.nz/) by Garrett Grolemund, Hadley Wickham, and Mine Çetinkaya
 - [x] [Elements of Data Analytic Style](https://leanpub.com/datastyle) by Jeff Leek
 - [x] [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
+
+
+#### Softare Engineering and Programming in R
+- [x] [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
+- [ ] [Advanced R](https://adv-r.hadley.nz/) by Hadley Wickham
+- [ ] [R Packages 2e](https://r-pkgs.org/) by Hadley Wickham and Jennifer Bryan
+- [ ] [Logic for Programmers]()
 
 
 #### Data Engineering
@@ -50,15 +54,14 @@ So, with that in mind, I present my sidequest!
 - [x] ***Profiting from Your Forecasting Software*** by Paul Goodwin
 - [x] [Forecasting Principles and Practice 3e](https://otexts.com/fpp3/) by Rob J. Hyndman and George Athanasopoulos
 - [ ] [Forecasting and Analytics with the Augmented Dynamic Adaptive Model](https://openforecast.org/adam/) by Ivan Svetunkov
-- [ ] [Exploring Modeling with Data and Differential Equations Using R](https://jmzobitz.github.io/ModelingWithR/) by John M. Zobitz
 
 
 #### Statistical Inference, Data Mining, and Machine Learning
-- [ ] [Introduction to Modern Statistics 2e](https://openintrostat.github.io/ims/index.html) by Mine Cetinkaya-Rundel and Johanna Hardin
+- [x] [Introduction to Modern Statistics 2e](https://openintrostat.github.io/ims/index.html) by Mine Cetinkaya-Rundel and Johanna Hardin
 - [ ] [Statistical Rethinking](https://xcelab.net/rm/) by Richard McElreath
-- [ ] [Introduction to Statistical Learning 2e](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
-- [ ] ***Data Mining: Concepts and Techniques*** by Jiawei Han, Jian Pei, and Hanghang Tong
 - [ ] [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christopher Molnar
+- [ ] ***Data Mining: Concepts and Techniques*** by Jiawei Han, Jian Pei, and Hanghang Tong
+
 
 
 
