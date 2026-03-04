@@ -12,7 +12,7 @@ tags: ["poetry", "writing", "Vocoder"]
 ---
 This is my second book of poems.
 The poems are in their third to sixth revision, and I plan to abandon them into a printed book sometime in the next year.
-Below is a sample poem from the book and a candidate cover designed by the extremely talented Hunter Sharp.
+Below is a sample poem from the book and a candidate cover designed by the extremely talented [Hunter Sharp](https://www.huntersharpcreative.com/).
 Both are subject to change.
 
 ---
