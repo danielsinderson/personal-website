@@ -35,7 +35,6 @@ So, with that in mind, I present my sidequest!
 
 
 #### Data Engineering
-- [ ] ***Data and Reality*** by William Kent
 - [ ] [Data Engineering Design Patterns](https://www.dedp.online/) by Simon Späti
 - [x] [Scaling Up With R and Arrow](https://arrowrbook.com/) by Nic Crane, Jonathan Keane, and Neal Richardson
 - [x] [DuckDB in Action](https://motherduck.com/duckdb-book-brief/) by Mark Needham, Michael Hunger, and Michael Simons
@@ -45,6 +44,7 @@ So, with that in mind, I present my sidequest!
 
 #### Data Management
 - [x] ***Data Quality ROI: A Playbook for Business-Driven Data Quality*** by Gaurav Patole
+- [ ] ***Data and Reality*** by William Kent
 - [ ] ***Meeting the Challenges of Data Quality Management*** by Laura Sebastien-Coleman
 - [ ] ***The Data Warehouse Toolkit 3e*** by Ralph Kimball and Margy Ross
 - [x] ***DAMA-DMBOK: Data Management Body of Knowledge*** by DAMA International
