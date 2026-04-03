@@ -10,6 +10,8 @@ image:
     alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ["math", "science", "learning in public", "DIY grad program"]
 ---
+EDIT: I've reworked this to a [simpler curriculum](posts/DIYphd-rework) that will be easier for me to complete while I'm also having to learn [so much for work](posts/DIYphd-1).
+
 # Why?
 I've designed my own course of advanced study for two reasons. The first is that a standard PhD program isn't an option: fellowships don't pay enough to support a family. The second is that my ideal course of study straddles the line between mathematics, philosophy, and the sciences in a way that's difficult to capture within a traditional graduate program. It's a generalist's curriculum rather than a specialist's.
 
