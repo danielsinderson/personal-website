@@ -54,6 +54,7 @@ So, with that in mind, I present my sidequest!
 #### Time Series Analysis and Forecasting
 - [x] ***Profiting from Your Forecasting Software*** by Paul Goodwin
 - [x] [Forecasting Principles and Practice 3e](https://otexts.com/fpp3/) by Rob J. Hyndman and George Athanasopoulos
+- [ ] ***Principles of Business Forecasting*** by Keith Ord, Robert Fildes, and Nikos Kourentzes
 - [ ] [Forecasting and Analytics with the Augmented Dynamic Adaptive Model](https://openforecast.org/adam/) by Ivan Svetunkov
 
 

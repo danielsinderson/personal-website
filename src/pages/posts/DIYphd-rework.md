@@ -10,35 +10,51 @@ image:
     alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ["math", "science", "data", "learning in public", "DIY grad program"]
 ---
+# Why a DIY PHD?
+I've designed my own course of advanced study for two reasons. The first is that a standard PhD program isn't an option: fellowships don't pay enough to support a family. The second is that my ideal course of study winds through multiple domains in a way that's difficult to capture within a traditional graduate program. 
 
-It's been about a year since I was promoted and decided to delay [my DIY graduate program](/posts/DIYphd-1) to [side quest a curriculum for my new position](posts/DIYphd-delay-for-work), and I've been promoted again. Instead of continuing to delay this project I'm reworking it so that there's a greater degree of overlap with things I need to learn for work anyway, and so that it's more narrowly scoped to topics and domains that I'm already conversant with. This means I'll be able to make progress on certain topics during work hours, and it also substantially lessens the overall cognitive load. This should make it **a lot** easier to actually finish.
+The goal is to research how we parse the world and make knowledge of it, how we organize this knowledge, how we derive insights from it, and how we can collectively and justly make decisions based on what we learn. This includes work in data modeling and ontologies, information management and engineering, inference and analytics, and social choice theory and radical democracy. This also includes critical theoretical work on the pitfalls and power dynamics within these endeavors to make sure I don't get too myopically, and dangerously, utopian about the ability to achieve world peace through better deliberative methods and information management. And to make sure that I can't pretend that modeling reality is a value-neutral and apolitical act; that we are not constantly in danger of enshrining our biases in the way we choose to stuff the world into categories.
 
-The point of this new curriculum is to research how we parse the world and make knowledge of it, how we organize this knowledge, how we derive insights from it, and how we can collectively and justly make decisions based on what we learn. This includes work in data modeling and ontologies, information management and engineering, inference and analytics, and social choice theory and radical democracy. This also includes critical theoretical work on the pitfalls and power dynamics within these endeavors to make sure I don't get too myopically, and dangerously, utopian about the ability to achieve world peace through better deliberative methods and information management. And to make sure that I can't pretend that modeling reality is a value-neutral and apolitical act; that we are not constantly in danger of enshrining our biases in the way we choose to stuff the world into categories.
+---
+---
 
-The curriculum below is the foundational part of the project. I will likely expand it based on what most interests me and based on specific research questions I have, but this is the core.
+# Why the Rework?
+It's been about a year since I was promoted and decided to delay [my original DIY graduate program](/posts/DIYphd-1) to [side quest a curriculum for my new position](posts/DIYphd-delay-for-work), and I've been promoted again. Instead of continuing to delay this project I'm reworking it so that there's a greater degree of overlap with things I need to learn for work anyway, and so that it's more narrowly scoped to topics and domains that I'm already conversant with. This means I'll be able to make progress on certain topics during work hours, and it also substantially lessens the overall cognitive load. This should make it **a lot** easier to actually finish.
+
+---
+---
+
+# The Curriculum
+The curriculum below is the foundational part of the project. I will likely expand it based on what most interests me and based on specific research questions I have, but this is the core. The first step is to read the fundamental critical counterweight texts in each section. The second is to get into the extensions. 
 
 
 ### Knowledge, Modeling, and Abstraction
+**Fundamentals**
 - [ ] ***Data and Reality*** by William Kent
 - [ ] ***The What and How of Modeling Information and Knowledge*** by C. Maria Kent
 - [ ] ***The Model Thinker*** by Scott E. Page
 
+**Extensions**
 - [ ] ***Metadata*** by Jeffrey Pomerantz
 - [ ] ***Semantic Web for the Working Ontologist*** by Allemang and Hendler
 - [ ] ***Categories and Compositionality: with a view to Applications*** by 
 - [ ] ***Formal Concept Analysis: Mathematical Foundations*** by Bernhard Ganter and Rudolf Wille
 
+**Critical Counterweight**
 - [ ] ***Sorting Things Out: Classification and Its Consequences*** by Susan Leigh Star and Geoffrey C. Bowker
 - [ ] ***Data Feminism*** by Catherine D'Ignazio and Lauren F. Klein
 - [ ] ***Power/Knowledge*** by Michel Foucault
 - [ ] ***Seeing Like a State*** by James C. Scott
 - [ ] ***The Ordinal Society*** by Marion Fourcade and Kieran Healy
 
+---
 
 ### Data Infrastructure and Information Management
+**Fundamentals**
 - [ ] ***The Discipline of Organizing*** by Robert J. Glushko
 - [ ] ***Data Management: Databases and Data Analytics*** by Richard T. Watson
 
+**Extensions**
 - [ ] ***Meeting the Challenges of Data Quality Management*** by Laura Sebastien-Coleman
 - [x] ***Fundamentals of Data Engineering*** by Joe Reis and Matt Housley
 - [ ] ***Data Engineering Design Patterns*** by Simon Späti
@@ -46,35 +62,45 @@ The curriculum below is the foundational part of the project. I will likely expa
 - [ ] ***The Data Warehouse Toolkit 3e*** by Ralph Kimball and Margy Ross
 - [x] ***Statistical Data Cleaning with Applications in R*** by Mark van der Loo and Edwin de Jonge
 
+**Critical Counterweight**
 - [ ] ***The Algorithmic Foundations of Differential Privacy*** by Cynthia Dwork and Aaron Roth
 - [ ] ***Indigenous Data Sovereignty: Toward an Agenda*** by Tahu Kukutai and John Taylor
 
+---
 
 ### Analysis, Inference, and Data Mining
+**Fundamentals**
 - [ ] ***Statistical Rethinking*** by Richard McElreath
 - [ ] ***Probability Theory: The Logic of Science*** by E.T. Jaynes
 - [x] ***Forecasting: Principles and Practice*** by Rob J. Hyndman and George Athanasopoulos
 - [ ] ***Data Visualization: A Practical Introduction*** by Kieran Healy
 
+**Extensions**
 - [ ] ***Data Mining: Concepts and Techniques*** by Jiawei Han, Jian Pei, and Hanghang Tong
 - [ ] ***Introduction to Statistical Learning*** by Trevor Hastie, Rob Tibshirani, Daniela Witten, and Gareth James
 - [ ] ***Interpretable Machine Learning*** by Christopher Molnar
-- [ ] ***Principles of Business Forecasting*** by Keith Ord, Robert Fildes, and Nikos Kourentzes
 - [ ] ***Causal Inference: What If*** by Miguel A. Hernán and James M. Robins
 - [ ] ***Causal Inference: The Mixtape*** by Scott Cunningham
 - [ ] ***Network Science*** by Albert-László Barabási
 
+**Critical Counterweight**
 - [ ] ***Weapons of Math Destruction*** by Cathy O'Neil 
 - [ ] ***Fairness and Machine Learning: Limitations and Opportunities*** by Solon Barocas, Moritz Hardt, and Arvind Narayanan
 
+---
 
 ### Collective Decision-Making and Radical Democracy
+**Fundamentals**
 - [ ] ***Handbook of Computational Social Choice*** edited by Felix Brandt, Vincent Conitzer, Ulle Endriss, Jérôme Lang, and Ariel D. Procaccia
+- [ ] ***Deliberative Democracy and Beyond: Liberals, Critics, Contestations*** by John S. Dryzek
+
+**Extensions**
+- [ ] ***Group Agency: The Possibility, Design, and Status of Corporate Agents*** by Christian List and Philip Pettit
+- [ ] ***Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*** by Hélène Landemore
 - [ ] ***Governing the Commons*** by Elinor Ostrom
 - [ ] ***People and Forests: Communities, Institutions, and Governance*** by Clark C. Gibson, Margaret A. McKean, and Elinor Ostrom
-- [ ] ***Group Agency: The Possibility, Design, and Status of Corporate Agents*** by Christian List and Philip Pettit
-- [ ] ***Deliberative Democracy and Beyond: Liberals, Critics, Contestations*** by John S. Dryzek
-- [ ] ***Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*** by Hélène Landemore
+- [ ] ***Understanding Institutions:The Science and Philosophy of Living Together*** by Francesco Guala 
 
+**Critical Counterweight**
 - [ ] ***Agonistics*** by Chantal Mouffe
 - [ ] ***Politics: The Central Texts*** by Roberto Mangabeira Unger
