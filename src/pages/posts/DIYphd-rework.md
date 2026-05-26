@@ -13,94 +13,94 @@ tags: ["math", "science", "data", "learning in public", "DIY grad program"]
 # Why a DIY PHD?
 I've designed my own course of advanced study for two reasons. The first is that a standard PhD program isn't an option: fellowships don't pay enough to support a family. The second is that my ideal course of study winds through multiple domains in a way that's difficult to capture within a traditional graduate program. 
 
-The goal is to research how we parse the world and make knowledge of it, how we organize this knowledge, how we derive insights from it, and how we can collectively and justly make decisions based on what we learn. This includes work in data modeling and ontologies, information management and engineering, inference and analytics, and social choice theory and radical democracy. This also includes critical theoretical work on the pitfalls and power dynamics within these endeavors to make sure I don't get too myopically, and dangerously, utopian about the ability to achieve world peace through better deliberative methods and information management. And to make sure that I can't pretend that modeling reality is a value-neutral and apolitical act; that we are not constantly in danger of enshrining our biases in the way we choose to stuff the world into categories.
+The goal is to research how we parse the world and make knowledge of it, how we organize this knowledge, how we derive insights from it, and how we can collectively and justly make decisions based on what we learn. This includes work in data modeling and knowledge representation; information management and engineering; inference and analytics; and game theory, social choice theory, and radical democracy. This also includes critical theoretical work on the pitfalls and power dynamics within these endeavors to make sure that I don't get too myopically, and dangerously, utopian about the ability to achieve world peace through better deliberative methods and information management. It's also there to make sure that I can't pretend modeling reality is a value-neutral and apolitical act; that we are not constantly in danger of enshrining our biases in the way we choose to measure the world and shove it into categories.
 
 ---
 ---
 
 # Why the Rework?
-It's been about a year since I was promoted and decided to delay [my original DIY graduate program](/posts/DIYphd-1) to [side quest a curriculum for my new position](posts/DIYphd-delay-for-work), and I've been promoted again. Instead of continuing to delay this project I'm reworking it so that there's a greater degree of overlap with things I need to learn for work anyway, and so that it's more narrowly scoped to topics and domains that I'm already conversant with. This means I'll be able to make progress on certain topics during work hours, and it also substantially lessens the overall cognitive load. This should make it **a lot** easier to actually finish.
+It's been about a year since I was promoted and decided to delay [my original DIY graduate program](/posts/DIYphd-1) to [side quest a curriculum for my new position](posts/DIYphd-delay-for-work), and I've been promoted again. Instead of continuing to delay this project I'm reworking it so that there's a greater degree of overlap with things I need to learn for work anyway, and so that it's more narrowly scoped to topics and domains that I'm already, at least somewhat, conversant with. This means I'll be able to make progress on certain topics during work hours, and it also substantially lessens the overall cognitive load. This should make it **a lot** easier to actually finish. With that said, the program is still extremely broad and ambitious in scope, so we'll see.
 
 ---
 ---
 
 # The Curriculum
-The curriculum below is the foundational part of the project. I will likely expand it based on what most interests me and based on specific research questions I have, but this is the core. The first step is to read the fundamental critical counterweight texts in each section. The second is to get into the extensions. 
+The curriculum will be split into four broad sections. The first is a fairly standard data science curriculum. The second is a supporting curriculum in mathematics. And the second phase is on collective decision making, institution building, and democracy.
+
+##### Phase One: On Knowledge, Information, and Data
+[Data Science I - Foundations]
+- [ ] [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton
+- [x] [Forecasting Principles and Practice 3e](https://otexts.com/fpp3/) by Rob J. Hyndman and George Athanasopoulos
+- [ ] [Deep R Programming](https://deepr.gagolewski.com/) by Marek Gagolewski
+- [ ] [Data Feminism](https://data-feminism.mitpress.mit.edu/) by D'Ignazio and Klein
 
 
-### Knowledge, Modeling, and Abstraction
-**Fundamentals**
-- [ ] ***Data and Reality*** by William Kent
-- [ ] ***The What and How of Modeling Information and Knowledge*** by C. Maria Kent
-- [ ] ***The Model Thinker*** by Scott E. Page
+[Data Science II - Data Engineering and Management]
+- [ ] [Patterns of Data Engineering](https://www.dedp.online/about-this-book.html) by Simon Späti
+- [ ] [Data Management: Databases and Data Analytics](https://www.richardtwatson.com/open/Reader/_book/Data-Management.pdf) by Richard T. Watson
 
-**Extensions**
-- [ ] ***Metadata*** by Jeffrey Pomerantz
-- [ ] ***Semantic Web for the Working Ontologist*** by Allemang and Hendler
-- [ ] ***Categories and Compositionality: with a view to Applications*** by 
-- [ ] ***Formal Concept Analysis: Mathematical Foundations*** by Bernhard Ganter and Rudolf Wille
 
-**Critical Counterweight**
-- [ ] ***Sorting Things Out: Classification and Its Consequences*** by Susan Leigh Star and Geoffrey C. Bowker
-- [ ] ***Data Feminism*** by Catherine D'Ignazio and Lauren F. Klein
-- [ ] ***Power/Knowledge*** by Michel Foucault
-- [ ] ***Seeing Like a State*** by James C. Scott
-- [ ] ***The Ordinal Society*** by Marion Fourcade and Kieran Healy
+[Data Science III - Bayesian Statistical Analysis]
+- [ ] [Bayes Rules!: An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) by Alicia A. Johnson, Miles Q. Ott, Mine Dogucu
+- [ ] [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://www.youtube.com/playlist?list=PLDcUM9US4XdNOlqSyhe38US8mFgmqzI14) by Richard McElreath
 
----
 
-### Data Infrastructure and Information Management
-**Fundamentals**
-- [ ] ***The Discipline of Organizing*** by Robert J. Glushko
-- [ ] ***Data Management: Databases and Data Analytics*** by Richard T. Watson
+[Data Science IV - Causal Analysis]
+- [ ] [Causal Inference: What If](https://miguelhernan.org/whatifbook) by Hernán and Robins
+- [ ] [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/) by Nick Huntington-Klein
 
-**Extensions**
-- [ ] ***Meeting the Challenges of Data Quality Management*** by Laura Sebastien-Coleman
-- [x] ***Fundamentals of Data Engineering*** by Joe Reis and Matt Housley
-- [ ] ***Data Engineering Design Patterns*** by Simon Späti
-- [x] ***SQL Antipatterns: Avoiding the Pitfalls of Database Programming*** by Bill Karwin
-- [ ] ***The Data Warehouse Toolkit 3e*** by Ralph Kimball and Margy Ross
-- [x] ***Statistical Data Cleaning with Applications in R*** by Mark van der Loo and Edwin de Jonge
 
-**Critical Counterweight**
-- [ ] ***The Algorithmic Foundations of Differential Privacy*** by Cynthia Dwork and Aaron Roth
-- [ ] ***Indigenous Data Sovereignty: Toward an Agenda*** by Tahu Kukutai and John Taylor
+[Data Science V - Machine Learning and Data Mining]
+- [ ] [Introduction to Machine Learning and Data Mining](https://02465material.pages.compute.dtu.dk/02465public/_assets/02450Book.pdf) by Tue Herlau, Mikkel N. Schmidt and Morten Mørup
+- [ ] [Feature Engineering A-Z](https://feaz-book.com/) 
+- [ ] [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christopher Molnar
+- [ ] [Fairness and Machine Learning](https://fairmlbook.org/) by Solon Barocas, Moritz Hardt, and Arvind Narayanan
 
----
 
-### Analysis, Inference, and Data Mining
-**Fundamentals**
-- [ ] ***Statistical Rethinking*** by Richard McElreath
-- [ ] ***Probability Theory: The Logic of Science*** by E.T. Jaynes
-- [x] ***Forecasting: Principles and Practice*** by Rob J. Hyndman and George Athanasopoulos
-- [ ] ***Data Visualization: A Practical Introduction*** by Kieran Healy
+[Data Science VI - Domain Modeling and Knowledge Representation]
+- [ ] [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+- [ ] [Categories and Compositionality](https://storage.zuper.ai/sync/ACT4E/ACT4E/alphubel-prod/build/last/build-public/ACT4E-public.pdf)
+- [ ] [An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316)
+- [ ] [Representing Knowledge and Querying Data using Double-Functorial Semantics](https://arxiv.org/abs/2403.19884) by Michael Lambert and Evan Patterson
 
-**Extensions**
-- [ ] ***Data Mining: Concepts and Techniques*** by Jiawei Han, Jian Pei, and Hanghang Tong
-- [ ] ***Introduction to Statistical Learning*** by Trevor Hastie, Rob Tibshirani, Daniela Witten, and Gareth James
-- [ ] ***Interpretable Machine Learning*** by Christopher Molnar
-- [ ] ***Causal Inference: What If*** by Miguel A. Hernán and James M. Robins
-- [ ] ***Causal Inference: The Mixtape*** by Scott Cunningham
-- [ ] ***Network Science*** by Albert-László Barabási
 
-**Critical Counterweight**
-- [ ] ***Weapons of Math Destruction*** by Cathy O'Neil 
-- [ ] ***Fairness and Machine Learning: Limitations and Opportunities*** by Solon Barocas, Moritz Hardt, and Arvind Narayanan
+[Data Science VII - LLMs and Agentic AI]
+- [ ] [Deep Learning and Scientific Computing with R torch](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/) by Sigrid Keydana
+- [ ] [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
+- [ ] [Hugging Face Smol Course](https://huggingface.co/learn/smol-course/unit0/1)
+- [ ] [Hugging Face Context Course](https://huggingface.co/learn/context-course/unit0/introduction)
 
----
 
-### Collective Decision-Making and Radical Democracy
-**Fundamentals**
-- [ ] ***Handbook of Computational Social Choice*** edited by Felix Brandt, Vincent Conitzer, Ulle Endriss, Jérôme Lang, and Ariel D. Procaccia
-- [ ] ***Deliberative Democracy and Beyond: Liberals, Critics, Contestations*** by John S. Dryzek
+[Data Science VIII - Philosophical Foundations and Critiques]
+ - Sorting Things Out: Classification and Its Consequences by Star and Bowker
+ - Power/Knowledge by Michel Foucault
+ - Seeing Like a State by James C. Scott
+ - The Ordinal Society by Fourcade and Healy
 
-**Extensions**
-- [ ] ***Group Agency: The Possibility, Design, and Status of Corporate Agents*** by Christian List and Philip Pettit
-- [ ] ***Democratic Reason: Politics, Collective Intelligence, and the Rule of the Many*** by Hélène Landemore
-- [ ] ***Governing the Commons*** by Elinor Ostrom
-- [ ] ***People and Forests: Communities, Institutions, and Governance*** by Clark C. Gibson, Margaret A. McKean, and Elinor Ostrom
-- [ ] ***Understanding Institutions:The Science and Philosophy of Living Together*** by Francesco Guala 
 
-**Critical Counterweight**
-- [ ] ***Agonistics*** by Chantal Mouffe
-- [ ] ***Politics: The Central Texts*** by Roberto Mangabeira Unger
+
+
+
+##### Phase Two: On Society, Institutions, and Interaction
+[Collective Decision Making I - Foundations]
+- Social Theory Rewired
+- The Logic of Social Science
+- Orienting to Chance: Probabilism and the Future of Social Theory
+
+[Collective Decision Making II - Institutions]
+- How Institutions Think
+- Group Agency by List and Pettit
+- Understanding Institutions by Francesco Guala
+- Governing the Commons by Elinor Ostrom
+
+[Collective Decision Making III - Radical Democracy]
+- Deliberative Democracy and Beyond by John S. Dryzek
+- Democratic Reason by Hélène Landemore
+- Agonistics by Chantal Mouffe
+- Politics: The Central Texts by Roberto Mangabeira Unger
+
+[Collective Decision Making IV - Networks and Connectivity]
+- [ ] [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/)
+
+[Collective Decision Making V - Social Choice Theory]
+- [ ] [Handbook of Computational Social Choice](https://cgi.cse.unsw.edu.au/~haziz/comsoc.pdf)
