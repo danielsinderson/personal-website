@@ -25,7 +25,7 @@ It's been about a year since I was promoted and decided to delay [my original DI
 ---
 
 # The Curriculum
-The curriculum will be split into four broad sections. The first is a fairly standard data science curriculum. The second is a supporting curriculum in mathematics. And the second phase is on collective decision making, institution building, and democracy.
+The curriculum will be split into four broad sections. The first is a fairly standard data science curriculum. The second phase is on collective decision making, institution building, and democracy. **WORK IN PROGRESS**
 
 ##### Phase One: On Knowledge, Information, and Data
 [Data Science I - Foundations]
