@@ -26,44 +26,28 @@ So, with that in mind, I present my sidequest!
 - [x] [Elements of Data Analytic Style](https://leanpub.com/datastyle) by Jeff Leek
 - [x] [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) by Claus O. Wilke
 
-
 #### Softare Engineering and Programming in R
 - [x] [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
-- [ ] [Deep R](https://adv-r.hadley.nz/) by Hadley Wickham
-- [ ] [R Packages 2e](https://r-pkgs.org/) by Hadley Wickham and Jennifer Bryan
-- [ ] [Logic for Programmers](https://leanpub.com/logic)
-
 
 #### Data Engineering
-- [ ] [Data Engineering Design Patterns](https://www.dedp.online/) by Simon Späti
 - [x] [Scaling Up With R and Arrow](https://arrowrbook.com/) by Nic Crane, Jonathan Keane, and Neal Richardson
 - [x] [DuckDB in Action](https://motherduck.com/duckdb-book-brief/) by Mark Needham, Michael Hunger, and Michael Simons
-- [x] ***Fundamentals of Data Engineering*** by Joe Reis and Matt Housley
-- [x] ***SQL Antipatterns: Avoiding the Pitfalls of Database Programming*** by Bill Karwin 
+- [x] **Fundamentals of Data Engineering** by Joe Reis and Matt Housley
+- [x] **SQL Antipatterns: Avoiding the Pitfalls of Database Programming** by Bill Karwin 
 
 
 #### Data Management
-- [x] ***Data Quality ROI: A Playbook for Business-Driven Data Quality*** by Gaurav Patole
-- [ ] ***Data and Reality*** by William Kent
-- [ ] ***Meeting the Challenges of Data Quality Management*** by Laura Sebastien-Coleman
+- [x] **Data Quality ROI: A Playbook for Business-Driven Data Quality** by Gaurav Patole
+- [ ] **Meeting the Challenges of Data Quality Management** by Laura Sebastien-Coleman
+- [x] **Statistical Data Cleaning with Applications in R** by Mark van der Loo and Edwin de Jonge
 - [ ] ***The Data Warehouse Toolkit 3e*** by Ralph Kimball and Margy Ross
 - [x] ***DAMA-DMBOK: Data Management Body of Knowledge*** by DAMA International
-- [x] ***Statistical Data Cleaning with Applications in R*** by Mark van der Loo and Edwin de Jonge
 
 
-#### Time Series Analysis and Forecasting
-- [x] ***Profiting from Your Forecasting Software*** by Paul Goodwin
-- [x] [Forecasting Principles and Practice 3e](https://otexts.com/fpp3/) by Rob J. Hyndman and George Athanasopoulos
-- [ ] ***Principles of Business Forecasting*** by Keith Ord, Robert Fildes, and Nikos Kourentzes
-- [ ] [Forecasting and Analytics with the Augmented Dynamic Adaptive Model](https://openforecast.org/adam/) by Ivan Svetunkov
-
-
-#### Statistical Inference, Data Mining, and Machine Learning
+#### Analytics and Data Mining
+- [x] **Profiting from Your Forecasting Software** by Paul Goodwin
 - [x] [Introduction to Modern Statistics 2e](https://openintrostat.github.io/ims/index.html) by Mine Cetinkaya-Rundel and Johanna Hardin
-- [ ] [Statistical Rethinking](https://xcelab.net/rm/) by Richard McElreath
-- [ ] [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christopher Molnar
-- [ ] ***Data Mining: Concepts and Techniques*** by Jiawei Han, Jian Pei, and Hanghang Tong
-- [ ] [Fairness and Machine Learning: Limitations and Opportunities](https://fairmlbook.org/) 
+
 
 
 
