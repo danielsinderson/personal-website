@@ -1,16 +1,28 @@
+---
+const year = new Date().getFullYear();
+---
+
 <footer>
-    <hr />
-    <p>
-        Website made by Daniel Sinderson, a total amateur, using <a href="https://astro.build/">Astro</a><br>
-        Last Updated December, 2024
-    </p>
+  <hr />
+  <p>
+    Daniel Sinderson &middot; {year} &middot; made with <a href="https://astro.build/">Astro</a>
+  </p>
 </footer>
 
-
 <style>
-    footer {
-        position: sticky;
-        background-color: #FBF9FA;
-        padding-top: 50px;
-    }
+  footer {
+    padding-top: 2em;
+    padding-bottom: 1em;
+  }
+
+  footer hr {
+    border: none;
+    border-top: 1px solid var(--color-border);
+    margin: 0 0 0.75em;
+  }
+
+  footer p {
+    font-size: 0.85em;
+    color: #777;
+  }
 </style>
