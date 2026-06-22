@@ -1,0 +1,65 @@
+---
+import Layout from './Layout.astro';
+
+interface Props {
+  title: string;
+  author: string;
+  pubDate: Date;
+  topic: string;
+  type: string;
+  description?: string;
+}
+
+const { title, author, pubDate, topic, type, description } = Astro.props;
+const formattedDate = pubDate.toLocaleDateString('en-US', {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+});
+---
+
+<Layout title={`${title} — DRS`} description={description}>
+  <article>
+    <hgroup>
+      <h1>{title}</h1>
+      <p class="post-meta">
+        by {author} &middot; <time datetime={pubDate.toISOString()}>{formattedDate}</time>
+        &middot; <span class="badge">{topic}</span> <span class="badge">{type}</span>
+      </p>
+    </hgroup>
+    <slot />
+  </article>
+</Layout>
+
+<style>
+  article {
+    max-width: 680px;
+    line-height: 1.75;
+  }
+
+  hgroup {
+    border-bottom: 1px solid var(--color-border);
+    padding-bottom: 1em;
+    margin-bottom: 1.5em;
+  }
+
+  hgroup h1 {
+    font-size: 1.9rem;
+    margin-bottom: 0.2em;
+  }
+
+  .post-meta {
+    color: var(--color-muted);
+    font-size: 1em;
+    margin-top: 0;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.1em 0.5em;
+    border: 1px solid color-mix(in srgb, var(--color-accent-text) 30%, var(--color-border));
+    border-radius: 3px;
+    font-size: 0.85em;
+    color: var(--color-accent-text);
+  }
+</style>

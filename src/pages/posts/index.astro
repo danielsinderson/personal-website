@@ -1,1 +1,199 @@
-<h1>Articles</h1>
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts', ({ data }) => !data.draft);
+const posts = allPosts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const topics = [...new Set(posts.map(p => p.data.topic))].sort();
+const types  = [...new Set(posts.map(p => p.data.type))].sort();
+---
+
+<Layout title="Posts — DRS">
+  <div id="posts-page">
+
+    <div class="filters">
+      <div class="filter-group">
+        <span class="filter-label">Topic</span>
+        {topics.map(topic => (
+          <button class="filter-btn" data-filter-type="topic" data-filter-value={topic}>{topic}</button>
+        ))}
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Type</span>
+        {types.map(type => (
+          <button class="filter-btn" data-filter-type="type" data-filter-value={type}>{type}</button>
+        ))}
+      </div>
+      <div class="filter-group filter-group--controls">
+        <button id="sort-btn">newest first</button>
+        <button id="clear-btn">clear filters</button>
+      </div>
+    </div>
+
+    <ul id="post-list">
+      {posts.map(post => (
+        <li
+          data-topic={post.data.topic}
+          data-type={post.data.type}
+          data-date={post.data.pubDate.toISOString()}
+        >
+          <a href={`/posts/${post.slug}`}>{post.data.title}</a>
+          <span class="post-meta">
+            <span class="badge">{post.data.topic}</span>
+            <span class="badge">{post.data.type}</span>
+            <time datetime={post.data.pubDate.toISOString()}>
+              {post.data.pubDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short' })}
+            </time>
+          </span>
+        </li>
+      ))}
+    </ul>
+
+  </div>
+</Layout>
+
+<style>
+  #posts-page {
+    max-width: 800px;
+    width: 100%;
+  }
+
+  .filters {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    margin-bottom: 1.5em;
+  }
+
+  .filter-group {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.4em;
+  }
+
+  .filter-group--controls {
+    margin-top: 0.25em;
+    padding-top: 0.5em;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .filter-label {
+    font-size: 0.85em;
+    color: var(--color-muted);
+    min-width: 3.5em;
+  }
+
+  .filter-btn, #sort-btn, #clear-btn {
+    padding: 0.2em 0.65em;
+    border: 1px solid var(--color-border);
+    border-radius: 20px;
+    background: none;
+    cursor: pointer;
+    font-size: 0.95em;
+    font-weight: 600;
+    color: var(--color-text);
+    font-family: inherit;
+    transition: border-color 0.15s, background 0.15s, color 0.15s;
+  }
+
+  .filter-btn:hover, #sort-btn:hover, #clear-btn:hover {
+    border-color: var(--color-text);
+  }
+
+  .filter-btn.active {
+    background-color: var(--color-accent);
+    color: var(--color-bg);
+    border-color: var(--color-accent);
+  }
+
+  #post-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  #post-list li {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5em;
+    padding: 0.5em 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  #post-list li.hidden {
+    display: none;
+  }
+
+  .post-meta {
+    display: flex;
+    align-items: baseline;
+    gap: 0.35em;
+    color: var(--color-muted);
+    font-size: 0.85em;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 0.1em 0.4em;
+    border: 1px solid color-mix(in srgb, var(--color-accent-text) 30%, var(--color-border));
+    border-radius: 3px;
+    font-size: 0.85em;
+    color: var(--color-accent-text);
+  }
+</style>
+
+<script>
+  let activeTopic: string | null = null;
+  let activeType: string | null = null;
+  let sortNewest = true;
+
+  function applyFilters() {
+    document.querySelectorAll<HTMLLIElement>('#post-list li').forEach(item => {
+      const topicMatch = !activeTopic || item.dataset.topic === activeTopic;
+      const typeMatch  = !activeType  || item.dataset.type  === activeType;
+      item.classList.toggle('hidden', !(topicMatch && typeMatch));
+    });
+  }
+
+  document.querySelectorAll<HTMLButtonElement>('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const filterType  = btn.dataset.filterType!;
+      const filterValue = btn.dataset.filterValue!;
+
+      if (filterType === 'topic') {
+        activeTopic = activeTopic === filterValue ? null : filterValue;
+        document.querySelectorAll('[data-filter-type="topic"]').forEach(b => b.classList.remove('active'));
+        if (activeTopic) btn.classList.add('active');
+      } else {
+        activeType = activeType === filterValue ? null : filterValue;
+        document.querySelectorAll('[data-filter-type="type"]').forEach(b => b.classList.remove('active'));
+        if (activeType) btn.classList.add('active');
+      }
+
+      applyFilters();
+    });
+  });
+
+  document.getElementById('clear-btn')!.addEventListener('click', () => {
+    activeTopic = null;
+    activeType  = null;
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    applyFilters();
+  });
+
+  document.getElementById('sort-btn')!.addEventListener('click', () => {
+    sortNewest = !sortNewest;
+    document.getElementById('sort-btn')!.textContent = sortNewest ? 'newest first' : 'oldest first';
+
+    const list  = document.getElementById('post-list')!;
+    const items = [...list.querySelectorAll<HTMLLIElement>('li')];
+    items.sort((a, b) => {
+      const diff = new Date(a.dataset.date!).valueOf() - new Date(b.dataset.date!).valueOf();
+      return sortNewest ? -diff : diff;
+    });
+    items.forEach(item => list.appendChild(item));
+  });
+</script>
