@@ -1,169 +1,307 @@
 ---
-import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
+import Layout from "../layouts/Layout.astro";
+import Card from "../components/Card.astro";
+import { getCollection } from "astro:content";
+
+const allPosts = await getCollection("posts", ({ data }) => !data.draft);
+const recentPosts = allPosts
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+    .slice(0, 5);
+
+const works = [
+    {
+        href: "/posts/book-tensegrity",
+        title: "Tensegrity",
+        description: "A collection of poems",
+        tags: ["arts"],
+    },
+    {
+        href: "/modeling-open-systems.pdf",
+        title: "Modeling Open Systems with Category Theory",
+        description: "Undergraduate capstone paper",
+        tags: ["research"],
+    },
+    {
+        href: "/posts/book-vocoder",
+        title: "Vocoder",
+        description: "A collection of poems (in revision)",
+        tags: ["arts"],
+    },
+    {
+        href: "/posts/rust-and-ruin-1",
+        title: "Rust & Ruin",
+        description: "Tabletop roleplaying game (v0.5 playtesting)",
+        tags: ["games"],
+    },
+    {
+        href: "/posts/diyphd-rework",
+        title: "DIY Graduate School",
+        description: "Self-study graduate curriculum",
+        tags: ["learning"],
+    },
+    {
+        href: "/posts/synthesizers-1",
+        title: "Terrible Synthesizers",
+        description: "Arduino-based synthesizer projects",
+        tags: ["electronics"],
+    },
+    {
+        href: "/posts/journey-to-the-bright-and-wild-1",
+        title: "Journey to the Bright and Wild",
+        description: "A TTRPG designed for kids",
+        tags: ["games"],
+    },
+];
+
+const allTags = [...new Set(works.flatMap((item) => item.tags))].sort();
 ---
 
-<html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="description" content="Blog " />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="icon" type="image/svg+xml" href="/blue_swirl.avif" />
-        <meta name="generator" content={Astro.generator} />
-        <title>DRS</title>
-    </head>
-    <body>
-        <Header />
-        <main id="main-content">
-            <div id="about">
-                <p>Hello, I'm Daniel.</p>
-                <p>
-                    I'm a writer and data specialist living in Ashland, OR with my wife and our two kids.
-                    I write poetry and nonfiction, am pursuing a self-study graduate curriculum in applied mathematics, and I have too many hobbies. 
-                </p>
-                <p>
-                    <strong>Degrees:</strong> A.A.S. Electronics | B.A. Anthropology | B.S. Mathematics
-                </p>
+<Layout title="DRS" description="Working Theories — Daniel Sinderson">
+    <div id="home">
+        <section id="about">
+            <h1>Hello, I'm Daniel</h1>
+            <p>
+                I'm a writer and data scientist living in Ashland, OR with my
+                wife and our two kids. I write poetry and nonfiction, am
+                pursuing a self-study graduate curriculum in applied
+                mathematics, and I have too many hobbies.
+            </p>
+            <p>
+                <strong>Degrees:</strong> A.A.S. Electronics | B.A. Anthropology |
+                B.S. Mathematics
+            </p>
+        </section>
+
+        <section id="interests">
+            <h1>Interests</h1>
+            <ul class="plain-list">
+                <li>Formal Theories</li>
+                <li>Poetry</li>
+                <li>Anthropology</li>
+                <li>Game Design</li>
+                <li>TTRPGs</li>
+                <li>Synthesizers</li>
+            </ul>
+        </section>
+
+        <section id="skills">
+            <h1>Skills</h1>
+            <ul class="plain-list">
+                <li>Mathematics</li>
+                <li>Data Analysis</li>
+                <li>Automation</li>
+                <li>Writing</li>
+                <li>Electronics</li>
+                <li>Eating Spicy Food</li>
+            </ul>
+        </section>
+
+        <section id="works" class="filterable-section">
+            <h1>Works & Projects</h1>
+            <div id="card-filter" class="filter-bar">
+                <button id="works-clear-btn" class="filter-btn active"
+                    >all</button
+                >
+                {
+                    allTags.map((tag) => (
+                        <button class="filter-btn" data-filter={tag}>
+                            {tag}
+                        </button>
+                    ))
+                }
             </div>
+            <ul class="card-list">
+                {works.map((w) => <Card {...w} />)}
+            </ul>
+        </section>
 
-            
+        <section id="blog">
+            <h1>Recent Posts</h1>
+            <ul class="post-list">
+                {
+                    recentPosts.map((post) => (
+                        <li>
+                            <a href={`/posts/${post.slug}`}>
+                                {post.data.title}
+                            </a>
+                            <span class="post-meta">
+                                <span class="badge">{post.data.topic}</span>
+                                <span class="badge">{post.data.type}</span>
+                                <time
+                                    datetime={post.data.pubDate.toISOString()}
+                                >
+                                    {post.data.pubDate.toLocaleDateString(
+                                        "en-US",
+                                        { year: "numeric", month: "short" },
+                                    )}
+                                </time>
+                            </span>
+                        </li>
+                    ))
+                }
+            </ul>
+            <p class="all-posts-link"><a href="/posts">All posts →</a></p>
+        </section>
+    </div>
+</Layout>
 
-            <div id="interests">
-                <h1>Interests</h1>
-                <p>
-                    Formal Theories<br>
-                    Poetry<br>
-                    Anthropology<br>
-                    Game Design<br>
-                    TTRPGs<br>
-                    Synthesizers<br>
-                </p>
-            </div>
+<style>
+    #home {
+        max-width: 800px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto;
+        gap: 1.5em;
+    }
 
-            <div id="skills">
-                <h1>Skills</h1>
-                <p>
-                    Mathematics<br>
-                    Data Analysis<br>
-                    Automation<br>
-                    Writing<br>
-                    Electronics<br>
-                    Eating Spicy Food<br>
-                </p>
-            </div> 
+    #about {
+        grid-column: 1 / 3;
+    }
+    #interests {
+        grid-column: 1 / 2;
+    }
+    #skills {
+        grid-column: 2 / 3;
+    }
+    #works {
+        grid-column: 1 / 3;
+    }
+    #blog {
+        grid-column: 1 / 3;
+        margin-bottom: 1em;
+    }
 
-            <div id="books">
-                <hr />
-                <h1>Books and Papers</h1>
-                <div>
-                    <p><a href="/posts/book-tensegrity">Tensegrity</a> (poems)</p>
-                </div>
-                <div>
-                    <p><a href="/modeling-open-systems.pdf">Modeling Open Systems with Category Theory</a> (capstone paper)</p>
-                </div>     
-                <div>
-                    <p><a href="/posts/book-vocoder">Vocoder</a> (poems: in revision)</p>
-                </div>              
-            </div>
+    /* plain lists */
+    .plain-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
 
-            <div id="projects">
-                <hr />
-                <h1>Projects</h1>
-                <div>
-                    <p><a href="/posts/Rust-and-Ruin-1">Rust & Ruin</a> (tabletop roleplaying game: v0.5 is being play tested)</p>
-                </div>
+    .plain-list li {
+        padding: 0.025em 0;
+    }
 
-                <div>
-                    <p><a href="/posts/DIYphd-rework">DIY Graduate School</a></p>
-                </div>
+    /* filter bar */
+    .filter-bar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4em;
+        margin-bottom: 0.75em;
+    }
 
-                <div>
-                    <p><a href="/posts/synthesizers-1">Terrible Synthesizers</a></p>
-                </div>
+    .filter-btn,
+    #works-clear-btn {
+        padding: 0.2em 0.65em;
+        border: 1px solid var(--color-border);
+        border-radius: 20px;
+        background: none;
+        cursor: pointer;
+        font-size: 0.95em;
+        font-weight: 600;
+        color: var(--color-text);
+        font-family: inherit;
+        transition:
+            border-color 0.15s,
+            background 0.15s,
+            color 0.15s;
+    }
 
-                <div>
-                    <p><a href="/posts/journey-to-the-bright-and-wild-1">Journey to the Bright and Wild</a> (tabletop roleplaying game for kids)</p>
-                </div>
+    .filter-btn:hover,
+    #works-clear-btn:hover {
+        border-color: var(--color-text);
+    }
 
-<!--                <div> -->
-<!--                    <p><a>Plasmid</a> (digital synthesizer)</p> -->
-<!--                </div> -->
-            </div> 
+    .filter-btn.active {
+        background-color: var(--color-accent);
+        color: var(--color-bg);
+        border-color: var(--color-accent);
+    }
 
-            
+    /* cards */
+    .card-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5em;
+    }
 
-            <div id="blog">
-                <hr />
-                <h1>Blog</h1>
-                <ul>
-                    <li>
-                        <a href="/posts/blog-poetry-what-poetry-is">Linguistic Ooblek</a>
-                    </li>
-                    <li>
-                        <a href="/posts/DIYphd-rework"
-                            >Reworking my Self-Study Graduate Curriculum</a
-                        >
-                    </li>
-                    <li>
-                        <a href="/posts/DIYphd-delay-for-work"
-                            >Delaying my Self-Study Graduate Curriculum</a
-                        >
-                    </li>
-                    <li>
-                        <a href="/posts/DIYphd-1"
-                        >Building a Graduate Curriculum for Self-Study</a
-                        >
-                    </li>
-                </ul>
-            </div>
+    /* post list */
+    .post-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
 
-            <div id="foot">
-                <Footer />
-            </div>
-        </main>
+    .post-list li {
+        display: flex;
+        align-items: baseline;
+        flex-wrap: wrap;
+        gap: 0.5em;
+        padding: 0.5em 0;
+        border-bottom: 1px solid var(--color-border);
+    }
 
+    .post-meta {
+        display: flex;
+        align-items: baseline;
+        gap: 0.35em;
+        color: var(--color-muted);
+        font-size: 0.85em;
+    }
 
+    .badge {
+        display: inline-block;
+        padding: 0.1em 0.4em;
+        border: 1px solid
+            color-mix(
+                in srgb,
+                var(--color-accent-text) 30%,
+                var(--color-border)
+            );
+        border-radius: 3px;
+        font-size: 0.85em;
+        color: var(--color-accent-text);
+    }
 
-        <style>
-            #main-content {
-                width: clamp(400px, 100%, 800px);
-                display: grid;
-                grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-                grid-template-rows: auto;
-            }
+    .all-posts-link {
+        font-size: 0.9em;
+        margin-top: 0.5em;
+    }
+</style>
 
-            #about {
-                grid-column: 1 / 7;
-            }
+<script>
+    const tagButtons = document.querySelectorAll<HTMLButtonElement>(
+        "#card-filter .filter-btn[data-filter]",
+    );
+    const allBtn = document.getElementById("works-clear-btn")!;
+    const cards = document.querySelectorAll<HTMLElement>(".card");
 
-            #interests {
-                grid-column: 1 / 4;
-            }
+    let activeFilter: string | null = null;
 
-            #skills {
-                grid-column: 4 / 7;
-            }
+    function applyFilter() {
+        cards.forEach((card) => {
+            const tags = card.dataset.tags ? card.dataset.tags.split(",") : [];
+            card.hidden = activeFilter !== null && !tags.includes(activeFilter);
+        });
+        allBtn.classList.toggle("active", activeFilter === null);
+    }
 
-            #books {
-                margin-top: 15px;
-                grid-column: 1 / 7;
-            }
+    tagButtons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+            const filter = btn.dataset.filter!;
+            activeFilter = activeFilter === filter ? null : filter;
+            tagButtons.forEach((b) => b.classList.remove("active"));
+            if (activeFilter) btn.classList.add("active");
+            applyFilter();
+        });
+    });
 
-            #projects {
-                margin-top: 15px;
-                grid-column: 1 / 7;
-            }
-
-            #blog {
-                margin-top: 15px;
-                margin-bottom: 15px;
-                grid-column: 1 / 7;
-            }
-
-            #foot {
-                grid-column: 1 / 7;
-            }
-            
-        </style>
-    </body>
-</html>
+    allBtn.addEventListener("click", () => {
+        activeFilter = null;
+        tagButtons.forEach((b) => b.classList.remove("active"));
+        applyFilter();
+    });
+</script>
