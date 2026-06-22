@@ -1,14 +1,11 @@
 ---
-layout: ../../layouts/CourseBlogLayout.astro
 title: 'Synthesizers'
 pubDate: 2024-11-01
-date: "December 8, 2024"
-description: 'Rundown of some of the terrible synthesizers I have made'
+description: 'A rundown of some of the terrible Arduino synthesizers I have made over the years.'
 author: 'Daniel Sinderson'
-image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["synthesizers", "arduino", "digital synthesis", "DIY"]
+topic: electronics
+type: project update
+draft: false
 ---
 I've made a lot of terrible Arduino synthesizers over the years.
 Only a select few made it off the breadboard.

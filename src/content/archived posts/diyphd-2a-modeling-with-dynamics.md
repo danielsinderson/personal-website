@@ -1,21 +1,18 @@
 ---
-layout: ../../layouts/BlogPostLayout.astro
 title: 'Course 2A: Modeling with Dynamics and Control'
 pubDate: 2024-12-01
-date: "December 1, 2024"
 description: 'Modeling with dynamics: dynamical systems, differential equations, and optimal control theory'
 author: 'Daniel Sinderson'
-image:
-    url: ''
-    alt: ''
-tags: ["math", "science", "learning in public", "DIY grad program"]
+topic: mathematics
+type: curriculum
+draft: false
 ---
 
 
 
 
 ### Course Description
-This is course 2A in my [DIY graduate program](/posts/DIYphd-1).
+This is course 2A in my [DIY graduate program](/posts/diyphd-1 .
 It's a year-long course in dynamical systems, differential equations, and optimal control theory.
 
 ### Course Materials

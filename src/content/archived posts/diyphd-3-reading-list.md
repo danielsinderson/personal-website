@@ -1,18 +1,15 @@
 ---
-layout: ../../layouts/BlogPostLayout.astro
 title: 'Course 3: Formal Theories in Science and Systems Design'
 pubDate: 2024-12-01
-date: "December 1, 2024"
-description: ''
+description: 'Reading list for year three of the DIY grad program: formal theories in science, philosophy, and systems design.'
 author: 'Daniel Sinderson'
-image:
-    url: ''
-    alt: ''
-tags: ["math", "science", "learning in public", "DIY grad program"]
+topic: mathematics
+type: curriculum
+draft: false
 ---
 ### Course Description
 This is a reading list of texts across the sciences and philosophy that utilize and/or explore formal theories that look intriguing.
-It's the free-form research section of my [DIY graduate program](/posts/DIYphd-1).
+It's the free-form research section of my [DIY graduate program](/posts/diyphd-1).
 
 ### Reading List
 - ***Mathematical Physics*** by Richard Geroch

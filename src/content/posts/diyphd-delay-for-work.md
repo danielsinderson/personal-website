@@ -1,14 +1,11 @@
 ---
-layout: ../../layouts/CourseBlogLayout.astro
 title: 'Delaying my Self-Study Graduate Curriculum'
 pubDate: 2025-04-10
-date: "April 10, 2025 | June 16, 2025 | Jan 31, 2026"
-description: 'Delaying my Self-Study Graduate Program'
+description: 'Sidetracked by a promotion: swapping the math curriculum for a data engineering sidequest.'
 author: 'Daniel Sinderson'
-image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["math", "science", "data", "learning in public", "DIY grad program"]
+topic: data science
+type: project update
+draft: false
 ---
 
 Last September I started work as a data specialist for a local toy company.

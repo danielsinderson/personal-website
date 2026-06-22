@@ -1,17 +1,14 @@
 ---
-layout: ../../layouts/BlogPostLayout.astro
 title: 'Course 2B: Modeling with Structure and Composition'
 pubDate: 2024-12-01
-date: "December 1, 2024"
 description: 'Modeling with structure: applied category theory and higher dimensional categories'
 author: 'Daniel Sinderson'
-image:
-    url: ''
-    alt: ''
-tags: ["math", "science", "learning in public", "DIY grad program"]
+topic: mathematics
+type: curriculum
+draft: false
 ---
 ### Course Description
-This is course 2B in my [DIY graduate program](/posts/DIYphd-1).
+This is course 2B in my [DIY graduate program](/posts/diyphd-1 .
 It's a year-long course in applied category theory and the basics of higher dimensional category theory, in particular double categories and their applications.
 
 

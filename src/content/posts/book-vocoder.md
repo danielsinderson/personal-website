@@ -1,14 +1,11 @@
 ---
-layout: ../../layouts/CourseBlogLayout.astro
 title: 'Vocoder'
 pubDate: 2024-11-01
-date: "December 8, 2024"
 description: 'My in-progress second book of poems.'
 author: 'Daniel Sinderson'
-image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["poetry", "writing", "Vocoder"]
+topic: poetry
+type: project update
+draft: false
 ---
 This is my second book of poems.
 The poems are in their third to sixth revision, and I plan to abandon them into a printed book sometime in the next year.

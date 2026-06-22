@@ -1,14 +1,11 @@
 ---
-layout: ../../layouts/CourseBlogLayout.astro
 title: 'Tensegrity'
 pubDate: 2024-11-01
-date: "December 8, 2024"
 description: 'My first book of poems.'
 author: 'Daniel Sinderson'
-image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["poetry", "writing", "Tensegrity"]
+topic: poetry
+type: project update
+draft: false
 ---
 This is my first book of poems.
 I self-published it in September (2024) through my friend's and my small literary press, [Moon Base Books](https://www.moon-base-books.com/).

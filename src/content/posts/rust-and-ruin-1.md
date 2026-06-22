@@ -1,14 +1,11 @@
 ---
-layout: ../../layouts/CourseBlogLayout.astro
 title: 'Rust & Ruin'
 pubDate: 2024-11-01
-date: "December 8, 2024"
-description: 'Overview of a new tabletop roleplaying game: Rust & Ruin'
+description: 'Overview of a tabletop roleplaying game I designed: Rust & Ruin.'
 author: 'Daniel Sinderson'
-image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["Rust & Ruin", "ttrpgs", "role-playing games", "game design"]
+topic: game design
+type: project update
+draft: false
 ---
 Rust & Ruin is a tabletop roleplaying game.
 I started it in December 2023, having stolen the name from a previous game I designed a year before.

@@ -1,14 +1,11 @@
 ---
-layout: ../../layouts/CourseBlogLayout.astro
 title: 'Linguistic Ooblek'
 pubDate: 2026-05-06
-date: "May 6, 2026"
-description: 'Linguistic Ooblek'
+description: 'What is poetry, anyway? A short essay on definitions, language, and ooblek.'
 author: 'Daniel Sinderson'
-image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["writing", "poetry", "essay"]
+topic: poetry
+type: essay
+draft: false
 ---
 We keep changing what it means to be a poem. In English, we've widened the aperture from the accentual-syllabic line to anything with line breaks to anything at all that feels like poetry when we read it or hear it. I like this widening. I like the process of abstraction that it represents. That with each inclusion we shear things we once thought essential to the form and hone closer to what actually is. I like the opportunities it creates as well, all these new inessential elements we can use to produce poetic effect. And I like the panic of it. When we destabilize a definition and push it into the space of vague qualia we create a gold rush, a vacuum of hungry opportunity laced with experimentation, copy cats, dead ends, and alchemy. When we destabilize a definition there are some that will rush to stabilize it and there are some that will rush, without any hope of success, to finally, fully break it. Both of these impulses can be creative. Both can also be stupid. 
 

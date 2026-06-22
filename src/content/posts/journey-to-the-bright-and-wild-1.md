@@ -1,14 +1,11 @@
 ---
-layout: ../../layouts/CourseBlogLayout.astro
 title: 'Journey to the Bright and Wild'
 pubDate: 2025-03-22
-date: "March 22, 2025"
-description: 'Overview of a simple tabletop roleplaying game for kids: Journey to the Bright and Wild'
+description: 'A simple tabletop roleplaying game for kids that fits on one page.'
 author: 'Daniel Sinderson'
-image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["Journey to the Bright and Wild", "ttrpgs", "role-playing games", "game design"]
+topic: game design
+type: project update
+draft: false
 ---
 Journey to the Bright and Wild is a tabletop roleplaying game I came up with while taking a bath.
 It's a super simple game designed to structure story time with my kids in a way that's more interactive: allowing me to bring their ideas into the story more often and in a way that's a bit more structured than arbitrary fiat, and that centers them in those stories as the participating characters.

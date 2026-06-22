@@ -1,17 +1,14 @@
 ---
-layout: ../../layouts/CourseBlogLayout.astro
 title: 'Course 1A: Mathematical Analysis'
 pubDate: 2024-12-01
-date: "December 1, 2024"
 description: 'Mathematical foundations: abstract vector spaces, inner product spaces, metric spaces, measure and integration, Banach spaces, basic topology'
 author: 'Daniel Sinderson'
-image:
-    url: ''
-    alt: ''
-tags: ["math", "science", "learning in public", "DIY grad program"]
+topic: mathematics
+type: curriculum
+draft: false
 ---
 ### Course Description
-This is course 1A in my [DIY graduate program](/posts/DIYphd-1), a year-long course on foundational concepts and techniques from mathematical analysis.
+This is course 1A in my [DIY graduate program](/posts/diyphd-1 , a year-long course on foundational concepts and techniques from mathematical analysis.
 This will include abstract vector spaces and inner product spaces, metric spaces, manifolds, measures, and integration.
 
 ### Course Materials

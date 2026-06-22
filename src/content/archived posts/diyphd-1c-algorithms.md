@@ -1,17 +1,14 @@
 ---
-layout: ../../layouts/BlogPostLayout.astro
 title: 'Course 1C: Algorithms and Optimization'
 pubDate: 2024-12-01
-date: "December 1, 2024"
 description: 'Computational foundations: algorithms and data structures, and techniques for approximation and optimization problems'
 author: 'Daniel Sinderson'
-image:
-    url: ''
-    alt: ''
-tags: ["math", "science", "learning in public", "DIY grad program"]
+topic: mathematics
+type: curriculum
+draft: false
 ---
 ### Course Description
-This is course 1C in my [DIY graduate program](/posts/DIYphd-1), a year-long course on foundational concepts and techniques from general computer science, and the subfields of approximation and optimization.
+This is course 1C in my [DIY graduate program](/posts/diyphd-1 , a year-long course on foundational concepts and techniques from general computer science, and the subfields of approximation and optimization.
 This will include algorithms and data structures, approximating functions with series and wavelets, and linear and nonlinear optimization.
 
 ### Course Materials

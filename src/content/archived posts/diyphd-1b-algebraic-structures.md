@@ -1,17 +1,14 @@
 ---
-layout: ../../layouts/BlogPostLayout.astro
 title: 'Course 1B: Algebraic Structures and Composition'
 pubDate: 2024-12-01
-date: "December 1, 2024"
 description: 'Mathematical foundations: sets and relations, algebraic structures, and basic category theory'
 author: 'Daniel Sinderson'
-image:
-    url: ''
-    alt: ''
-tags: ["math", "science", "learning in public", "DIY grad program"]
+topic: mathematics
+type: curriculum
+draft: false
 ---
 ### Course Description
-This is course 1B in my [DIY graduate program](/posts/DIYphd-1), a year-long course looking at set theory, category theory, and algebraic structures in an applied setting.
+This is course 1B in my [DIY graduate program](/posts/diyphd-1 , a year-long course looking at set theory, category theory, and algebraic structures in an applied setting.
 
 
 ### Course Materials
