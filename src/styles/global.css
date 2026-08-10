@@ -8,6 +8,8 @@
   --color-border: #E0D8DA;
   --font-serif: Georgia, 'Times New Roman', serif;
   --font-sans: system-ui, -apple-system, sans-serif;
+  --task-marker-size: 0.85em;
+  --task-marker-indent: 1.4em;
 }
 
 body {
@@ -125,6 +127,47 @@ hr {
   border: none;
   border-top: 1px solid var(--color-border);
   margin: 1.5em 0;
+}
+
+/* checklists */
+
+ul.contains-task-list {
+  list-style: none;
+  padding-left: var(--task-marker-indent);
+}
+
+/* Empty, half-filled, and filled squares for the three states. The marker hangs
+   in the list's left padding so wrapped lines stay flush with the first line. */
+.task-list-item input[type='checkbox'],
+.task-list-item .task-progress {
+  appearance: none;
+  -webkit-appearance: none;
+  /* Browsers give inputs their own font instead of inheriting one, so without
+     this the em-based size and margin below resolve smaller on the checkboxes
+     than on the span. */
+  font-size: inherit;
+  box-sizing: border-box;
+  display: inline-block;
+  width: var(--task-marker-size);
+  height: var(--task-marker-size);
+  margin: 0 calc(var(--task-marker-indent) - var(--task-marker-size)) 0
+    calc(-1 * var(--task-marker-indent));
+  border: 1px solid var(--color-accent-text);
+  border-radius: 2px;
+  background: transparent;
+  vertical-align: -0.05em;
+}
+
+.task-list-item input[type='checkbox']:checked {
+  background: var(--color-accent-text);
+}
+
+.task-list-item .task-progress {
+  background: linear-gradient(
+    to bottom right,
+    var(--color-accent-text) 0 50%,
+    transparent 50%
+  );
 }
 
 /* spacing */

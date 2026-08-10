@@ -1,5 +1,5 @@
 ---
-import Layout from './Layout.astro';
+import Layout from "./Layout.astro";
 
 interface Props {
   title: string;
@@ -11,20 +11,23 @@ interface Props {
 }
 
 const { title, author, pubDate, topic, type, description } = Astro.props;
-const formattedDate = pubDate.toLocaleDateString('en-US', {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
+const formattedDate = pubDate.toLocaleDateString("en-US", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
 });
 ---
 
 <Layout title={`${title} — DRS`} description={description}>
-  <article>
+  <article data-type={type}>
     <hgroup>
       <h1>{title}</h1>
       <p class="post-meta">
-        by {author} &middot; <time datetime={pubDate.toISOString()}>{formattedDate}</time>
-        &middot; <span class="badge">{topic}</span> <span class="badge">{type}</span>
+        by {author} &middot; <time datetime={pubDate.toISOString()}
+          >{formattedDate}</time
+        >
+        &middot; <span class="badge">{topic}</span>
+        <span class="badge">{type}</span>
       </p>
     </hgroup>
     <slot />
@@ -57,9 +60,26 @@ const formattedDate = pubDate.toLocaleDateString('en-US', {
   .badge {
     display: inline-block;
     padding: 0.1em 0.5em;
-    border: 1px solid color-mix(in srgb, var(--color-accent-text) 30%, var(--color-border));
+    border: 1px solid
+      color-mix(in srgb, var(--color-accent-text) 30%, var(--color-border));
     border-radius: 3px;
     font-size: 0.85em;
     color: var(--color-accent-text);
+  }
+
+  /* Reading lists in curriculum posts are long, so set them tighter and smaller */
+  article[data-type="curriculum"] :global(ul) {
+    font-size: 0.95em;
+    line-height: 1.45;
+    margin: 0.3em 0 1.4em;
+    padding-left: var(--task-marker-indent);
+  }
+
+  article[data-type="curriculum"] :global(li + li) {
+    margin-top: 0.25em;
+  }
+
+  article[data-type="curriculum"] :global(p) {
+    margin-bottom: 0.3em;
   }
 </style>
