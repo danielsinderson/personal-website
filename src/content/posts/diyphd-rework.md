@@ -1,45 +1,92 @@
 ---
-title: 'Reworking my Self-Study Graduate Curriculum'
+title: 'Self-Study Graduate Curriculum'
 pubDate: 2026-04-02
-description: 'Reworking my self-study graduate program to better overlap with work and reduce scope.'
+description: 'My reworked self-study graduate program in computational social science, with every course and its texts.'
 author: 'Daniel Sinderson'
 topic: mathematics
-type: project update
+type: curriculum
 draft: false
 ---
-# Why Graduate Studies?
-Because I'm curious, and because I think there's something important to be learned and acted on here. The goal is to research how we parse the world and make knowledge of it, how we organize this knowledge, how we derive insights from it, how we can collectively and justly make decisions based on what we learn, and how we can build institutions that protect and support this process. It's a deeply interdisciplinary research program. It includes coursework in data modeling and knowledge representation; information management and engineering; inference and analytics; and game theory, social choice theory, and radical democracy. It also includes critical theoretical work on the pitfalls and power dynamics within these endeavors to make sure that I don't get too myopically, and dangerously, utopian about the ability to achieve world peace through better deliberative methods, mechanism design, and information management alone. It's also there to make sure that I can't pretend modeling reality is a value-neutral and apolitical act; that we are not constantly in danger of enshrining our biases in the way we choose to measure the world and shove it into categories.
+# Why a Graduate Curriculum?
+Because I'm curious, and because I think there's something important to be learned and acted on here. 
 
 
----
-# Why a DIY PHD?
-Because fellowships don't pay enough to support a family.
 
 
 
 ---
 # The Curriculum
-The curriculum is a fairly standard course of study in computational social science, but with additional course work in data system management and design, and greater philosophical depth. The first section is a full data science curriculum, and the second is a social scientific curriculum focused on analytical methods and collective agency and decision-making.
+The first section is a full data science curriculum, and the second is a mixed program of social science and complex systems science.
+The goal is to research how we parse the world and make knowledge of it, how we organize this knowledge, how we derive insights from it, how we can collectively and justly make decisions based on what we learn, and how we can build institutions together that protect and support this process. It's a deeply interdisciplinary research program including coursework in epistemology; data modeling and knowledge representation; information management and engineering; inference and analytics; game theory and social choice theory; complex systems science; and institutional analysis and collective action. It also includes some critical theoretical work on the pitfalls and blind spots of these subjects to make sure that I don't get too myopically, and dangerously, utopian about the ability to achieve world peace through better deliberative methods, mechanism design, and information management alone. It's also there to make sure that I can't pretend modeling reality is a value-neutral and apolitical act; that we are not constantly in danger of enshrining our biases in the way we choose to measure the world and shove it into categories.
 
-### On Knowledge, Information, and Data
-- [Data Science I - Data Analysis Foundations](/posts/diyphd-data-science-1)
-- [Data Science II - Data Management Foundations](/posts/diyphd-data-science-2)
-- [Data Science III - Bayesian Statistical Analysis](/posts/diyphd-data-science-3)
-- [Data Science IV - Causal Inference](/posts/diyphd-data-science-4)
-- [Data Science V - Machine Learning and Data Mining](/posts/diyphd-data-science-5)
-- [Data Science VI - Text Analysis and Natural Language Processing](/posts/diyphd-data-science-6)
-- [Data Science VII - Small Language Models](/posts/diyphd-data-science-7)
-- [Data Science VIII - Advanced Domain Modeling and Knowledge Representation](/posts/diyphd-data-science-8)
-- [Sociology of Data Science I - Algorithms and Society](/posts/diyphd-sociology-of-data-science-1)
-- [Sociology of Data Science II - Knowledge Creation and Power](/posts/diyphd-sociology-of-data-science-2)
+---
+# On Knowledge, Information, and Data
 
-### On Society, Interaction, and Institutions
-- [Sociology I - Foundations](/posts/diyphd-sociology-1)
-- [Sociology II - Group Agency and Institutions](/posts/diyphd-sociology-2)
-- [Sociology III - Deliberation and Democracy](/posts/diyphd-sociology-3)
-- [Sociology IV - Philosophy of Social Science](/posts/diyphd-sociology-4)
-- [Analytical Sociology I - Foundational Methodology](/posts/diyphd-analytical-sociology-1)
-- [Analytical Sociology II - Introductory Game Theory](/posts/diyphd-analytical-sociology-2)
-- [Analytical Sociology III - Networks and Connectivity](/posts/diyphd-analytical-sociology-3)
-- [Analytical Sociology IV - Social Choice Theory](/posts/diyphd-analytical-sociology-4)
-- [Analytical Sociology V - Modeling and Simulation of Complex Systems](/posts/diyphd-analytical-sociology-5)
+**Epistemology and Philosophy of Science**
+- [x] [Philosophy of Science: A Contemporary Introduction](https://www.routledge.com/Philosophy-of-Science-A-Contemporary-Introduction/Rosenberg-McIntyre/p/book/9781138331518) by Alex Rosenberg and Lee McIntyre
+- [ ] [Epistemology: A Contemporary Introduction](https://www.routledge.com/Epistemology-A-Contemporary-Introduction-to-the-Theory-of-Knowledge/Audi/p/book/9780415879231) by Robert Audi
+- [x] [Philosophy of Science: Contemporary Readings](https://www.routledge.com/Philosophy-of-Science-Contemporary-Readings/Balashov-Rosenberg/p/book/9780415257824) edited by Yuri Balashov and Alex Rosenberg
+- [ ] [Epistemology: Contemporary Readings](https://www.routledge.com/Epistemology-Contemporary-Readings/Huemer/p/book/9780415259217) edited by Michael Huemer
+
+**Data Analysis and Management Foundations**
+- [x] [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/) by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton
+- [x] [Statistical Data Cleaning with Applications in R](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118897126) by Edwin de Jonge and Mark van der Loo
+- [/] [Deep R Programming](https://deepr.gagolewski.com/) by Marek Gagolewski
+- [/] [The Data Warehouse Toolkit](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) by Ralph Kimball and Margy Ross
+- [ ] [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://dataintensive.net/) by Martin Kleppmann
+
+**Inference and Analytics**
+- [x] [Forecasting Principles and Practice 3e](https://otexts.com/fpp3/) by Rob J. Hyndman and George Athanasopoulos
+- [/] [Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
+- [ ] [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://xcelab.net/rm/) by Richard McElreath ([additional video tutorials](https://www.youtube.com/playlist?list=PLDcUM9US4XdNOlqSyhe38US8mFgmqzI14))
+- [ ] [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/) by Nick Huntington-Klein ([additional video tutorials](https://www.youtube.com/watch?v=ZmNkdM0zGJQ&list=PLVE5MzKQzt70JVDAmY42q9XR_V9oDUCyo))
+
+**Text Analysis and Natural Language Processing**
+- [ ] [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart
+- [ ] [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) by Pere Martra
+- [ ] [Domain-Specific Small Language Models](https://www.manning.com/books/domain-specific-small-language-models) by Guglielmo Iozzia
+
+**Domain Modeling and Knowledge Representation**
+- [/] [An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://arxiv.org/pdf/1803.05316) by David I. Spivak
+- [ ] [Knowledge Representation in Bicategories of Relations](https://arxiv.org/abs/1706.00526) by Evan Patterson
+- [ ] [Representing Knowledge and Querying Data using Double-Functorial Semantics](https://arxiv.org/abs/2403.19884) by Michael Lambert and Evan Patterson
+
+**Algorithms and Society**
+- [ ] [Fairness and Machine Learning](https://fairmlbook.org/) by Solon Barocas, Moritz Hardt, and Arvind Narayanan
+- [ ] [Data Feminism](https://data-feminism.mitpress.mit.edu/) by Catherine D'Ignazio and Lauren Klein
+- [ ] [The Ordinal Society](https://www.hup.harvard.edu/books/9780674971141) by Marion Fourcade and Kieran Healy
+
+**Knowledge Creation and Power**
+- [x] [Seeing Like a State](https://yalebooks.yale.edu/book/9780300246759/seeing-like-a-state/) by James C. Scott
+- [ ] [Power/Knowledge](https://archive.org/details/powerknowledgese0000fouc_v9d7) by Michel Foucault
+- [ ] [Sorting Things Out: Classification and Its Consequences](https://direct.mit.edu/books/monograph/4738/Sorting-Things-OutClassification-and-Its) by Susan Leigh Star and Geoffrey C. Bowker
+
+
+---
+# On Society, Interaction, and Institutions
+
+**Contemporary Social Theory**
+- [ ] [The Cambridge Handbook of Social Theory vol. II: Contemporary Theories and Issues](https://www.cambridge.org/core/books/cambridge-handbook-of-social-theory/8E4225D618E166517A206DAEB09EA560)
+
+**Collective Decision-Making, Institutions, and Democracy**
+- [x] [How Institutions Think](https://press.syr.edu/supressbooks/1814/how-institutions-think/) by Mary Douglas
+- [x] [Understanding Institutions: The Science and Philosophy of Living Together](https://press.princeton.edu/books/hardcover/9780691171784/understanding-institutions) by Francesco Guala
+- [x] [Governing the Commons](https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5) by Elinor Ostrom
+- [ ] [Open Democracy: Reinventing Popular Rule for the Twenty-First Century](https://press.princeton.edu/books/hardcover/9780691181998/open-democracy) by Helene Landemor
+
+**Modeling and Simulation of Complex Systems**
+- [x] [Growing Artificial Societies](https://mitpress.mit.edu/9780262550253/growing-artificial-societies/)
+- [x] [Agent-Based Modeling for Archaeology: Simulating the Complexity of Societies](https://www.sfipress.org/books/agent-based-modeling-archaeology)
+- [ ] [Ex Machina: Coevolving Machines & the Origins of the Social Universe](https://www.sfipress.org/books/ex-machina)
+- [ ] [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) by Hiroki Sayama
+
+**Computational Social Science**
+- [ ] [Bit by Bit: Social Research in the Digital Age](https://www.bitbybitbook.com/) by Matthew Salganik
+- [ ] [A Course in Game Theory](https://sites.math.rutgers.edu/~zeilberg/EM20/OsborneRubinsteinMasterpiece.pdf) by Martin J Osborne and Ariel Rubinstein
+- [ ] [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/) by David Easley and Jon Kleinberg
+- [ ] [Handbook of Computational Social Choice](https://cgi.cse.unsw.edu.au/~haziz/comsoc.pdf) edited by Felix Brandt, Vincent Conitzer, Ulle Endriss, Jerome Lang, and Ariel D. Procaccia
+
+**Philosophy of Social Science**
+- [ ] [The Logic of Social Science](https://press.princeton.edu/books/paperback/9780691214955/the-logic-of-social-science) by James Mahoney
+- [ ] [Orienting to Chance: Probabilism and the Future of Social Theory](https://press.uchicago.edu/ucp/books/book/chicago/O/bo253256515.html) Michael Strand and Omar Lizardo
+- [ ] [Model Cases: On Canonical Research Objects and Sites](https://press.uchicago.edu/ucp/books/book/chicago/M/bo88749683.html) by Monika Krause
