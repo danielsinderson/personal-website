@@ -33,18 +33,16 @@ The goal is to research how we parse the world and make knowledge of it, how we 
 - [x] [Statistical Data Cleaning with Applications in R](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118897126) by Edwin de Jonge and Mark van der Loo
 - [/] [Deep R Programming](https://deepr.gagolewski.com/) by Marek Gagolewski
 - [/] [The Data Warehouse Toolkit](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) by Ralph Kimball and Margy Ross
-- [ ] [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://dataintensive.net/) by Martin Kleppmann
 
 **Inference and Analytics**
 - [x] [Forecasting Principles and Practice 3e](https://otexts.com/fpp3/) by Rob J. Hyndman and George Athanasopoulos
 - [/] [Introduction to Statistical Learning](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani
-- [ ] [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://xcelab.net/rm/) by Richard McElreath ([additional video tutorials](https://www.youtube.com/playlist?list=PLDcUM9US4XdNOlqSyhe38US8mFgmqzI14))
+- [/] [Statistical Rethinking: A Bayesian Course with Examples in R and Stan](https://xcelab.net/rm/) by Richard McElreath ([additional video tutorials](https://www.youtube.com/playlist?list=PLDcUM9US4XdNOlqSyhe38US8mFgmqzI14))
 - [ ] [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/) by Nick Huntington-Klein ([additional video tutorials](https://www.youtube.com/watch?v=ZmNkdM0zGJQ&list=PLVE5MzKQzt70JVDAmY42q9XR_V9oDUCyo))
 
 **Text Analysis and Natural Language Processing**
 - [ ] [Text as Data: A New Framework for Machine Learning and the Social Sciences](https://press.princeton.edu/books/paperback/9780691207551/text-as-data) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart
 - [ ] [Rearchitecting LLMs](https://www.manning.com/books/rearchitecting-llms) by Pere Martra
-- [ ] [Domain-Specific Small Language Models](https://www.manning.com/books/domain-specific-small-language-models) by Guglielmo Iozzia
 
 **Domain Modeling and Knowledge Representation**
 - [/] [An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://arxiv.org/pdf/1803.05316) by David I. Spivak
