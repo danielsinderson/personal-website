@@ -26,8 +26,8 @@ The goal is to research how we parse the world and make knowledge of it, how we 
 - [x] [Statistical Data Cleaning with Applications in R](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118897126) by Edwin de Jonge and Mark van der Loo
 - [x] [Fundamentals of Data Engineering](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/) by Joe Reis and Matt Housley
 - [x] [Data Management Body of Knowledge](https://dama.org/learning-resources/dama-data-management-body-of-knowledge-dmbok/) by DAMA International
-- [/] [Deep R Programming](https://deepr.gagolewski.com/) by Marek Gagolewski
-- [/] [The Data Warehouse Toolkit](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) by Ralph Kimball and Margy Ross
+- [x] [Deep R Programming](https://deepr.gagolewski.com/) by Marek Gagolewski
+- [x] [The Data Warehouse Toolkit](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/books/data-warehouse-dw-toolkit/) by Ralph Kimball and Margy Ross
 
 **Inference and Analytics**
 - [x] [Forecasting Principles and Practice 3e](https://otexts.com/fpp3/) by Rob J. Hyndman and George Athanasopoulos
